@@ -1,0 +1,83 @@
+{
+  "uid" : "57d349227c3d15da",
+  "name" : "全部指数-查询",
+  "fullName" : "test_operation_ziyuanzhongxin.Test_indicator#test_ind_chaxun",
+  "historyId" : "0ae608c03dea115f374fb0d968acdb20",
+  "time" : {
+    "start" : 1621995833486,
+    "stop" : 1621995833609,
+    "duration" : 123
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_operation_ziyuanzhongxin.Test_indicator object at 0x10f7ae310>\n\n    @allure.title(\"全部指数-查询\")\n    def test_ind_chaxun(self):\n>       zhishu_code=zs.zhishujibenxinxi()[2]\n\ntest_operation_ziyuanzhongxin.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.zhishuguanli.zhishuzhuce_API.Index_signin object at 0x10f52b520>\n\n    def zhishujibenxinxi(self):\n        indicatorName= f'指数{requestTime+num}'\n        url=f'{self.url}/api/v2/agent/indicator/addIndicator'\n        header={'Content-Type':'application/json','userId':str(self.userid)}\n        data={\n            \"reqHeader\": {\n                \"userId\":self.userid,\n                \"token\":self.token\n            },\n            \"reqBody\": {\n                \"indicatorCategorys\": [],\n                \"indicatorName\": indicatorName,\n                \"indicatorUnit\": \"中枢\",\n                \"computeFrequency\": \"60\",\n                \"frequencyUnit\": \"s\",\n                \"indicatorNote\": \"指数定义\",\n                \"computeNote\": \"测试数据\",\n                \"businessContacts\": \"陈三\",\n                \"businessPhone\": \"17757565999\",\n                \"responsibleAppInfoId\": 70,\n                \"responsibleLeader\": \"周三\",\n                \"refreshCycle\": {\n                    \"dimensionCode\": 1000075,\n                    \"name\": \"时\"\n                },\n                \"applyRange\": {\n                    \"dimensionCode\": 1000079,\n                    \"name\": \"省\"\n                },\n                \"usableDimension\": []\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data))\n>       return res.json()['data']['id'],indicatorName,res.json()['data']['indicatorCode']\nE       KeyError: 'data'\n\n../../Customer_platform/API/zhishuguanli/zhishuzhuce_API.py:47: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'",
+    "statusTrace" : "self = <Test_case.Test_APIcase.test_operation_ziyuanzhongxin.Test_indicator object at 0x10f7ae310>\n\n    @allure.title(\"全部指数-查询\")\n    def test_ind_chaxun(self):\n>       zhishu_code=zs.zhishujibenxinxi()[2]\n\ntest_operation_ziyuanzhongxin.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.zhishuguanli.zhishuzhuce_API.Index_signin object at 0x10f52b520>\n\n    def zhishujibenxinxi(self):\n        indicatorName= f'指数{requestTime+num}'\n        url=f'{self.url}/api/v2/agent/indicator/addIndicator'\n        header={'Content-Type':'application/json','userId':str(self.userid)}\n        data={\n            \"reqHeader\": {\n                \"userId\":self.userid,\n                \"token\":self.token\n            },\n            \"reqBody\": {\n                \"indicatorCategorys\": [],\n                \"indicatorName\": indicatorName,\n                \"indicatorUnit\": \"中枢\",\n                \"computeFrequency\": \"60\",\n                \"frequencyUnit\": \"s\",\n                \"indicatorNote\": \"指数定义\",\n                \"computeNote\": \"测试数据\",\n                \"businessContacts\": \"陈三\",\n                \"businessPhone\": \"17757565999\",\n                \"responsibleAppInfoId\": 70,\n                \"responsibleLeader\": \"周三\",\n                \"refreshCycle\": {\n                    \"dimensionCode\": 1000075,\n                    \"name\": \"时\"\n                },\n                \"applyRange\": {\n                    \"dimensionCode\": 1000079,\n                    \"name\": \"省\"\n                },\n                \"usableDimension\": []\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data))\n>       return res.json()['data']['id'],indicatorName,res.json()['data']['indicatorCode']\nE       KeyError: 'data'\n\n../../Customer_platform/API/zhishuguanli/zhishuzhuce_API.py:47: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9073d631cfebd140",
+      "name" : "log",
+      "source" : "9073d631cfebd140.txt",
+      "type" : "text/plain",
+      "size" : 272
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "全部指数"
+  }, {
+    "name" : "epic",
+    "value" : "资源中心"
+  }, {
+    "name" : "suite",
+    "value" : "test_operation_ziyuanzhongxin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_indicator"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_operation_ziyuanzhongxin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "57d349227c3d15da.json",
+  "parameterValues" : [ ]
+}

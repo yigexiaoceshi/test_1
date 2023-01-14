@@ -1,0 +1,135 @@
+{
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "name": "suites",
+  "children": [
+    {
+      "name": "test_008_allure_install",
+      "children": [
+        {
+          "name": "test_with_no_severity_label",
+          "uid": "87fbd677c61cef7a",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103166,
+            "stop": 1630076103166,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "用例标题：测试严重级别为阻塞的用例",
+          "uid": "b3bbb3636b43f3a3",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103167,
+            "stop": 1630076103167,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "test_with_severity_Blocker2",
+          "uid": "12144e9eb6a39865",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103168,
+            "stop": 1630076103168,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "test_with_severity_Critical",
+          "uid": "7ccd9b7871685cc1",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103169,
+            "stop": 1630076103169,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "test_with_severity_Normal",
+          "uid": "25a0fbb01fd66e29",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103170,
+            "stop": 1630076103170,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "test_with_severity_Trivial",
+          "uid": "d9b435421876dc32",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103171,
+            "stop": 1630076103171,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "test_with_severity_Minor",
+          "uid": "c0f5a038db42d772",
+          "parentUid": "513a16b278769f146ebbb1f54ec89723",
+          "status": "passed",
+          "time": {
+            "start": 1630076103171,
+            "stop": 1630076103171,
+            "duration": 0
+          },
+          "flaky": false,
+          "parameters": []
+        },
+        {
+          "name": "TestClassWithNormalSeverity",
+          "children": [
+            {
+              "name": "test_inside_the_severity_normal_test_class",
+              "uid": "9447c708d882e91b",
+              "parentUid": "1747cb5031dbe9412358efcaff4eec21",
+              "status": "passed",
+              "time": {
+                "start": 1630076103172,
+                "stop": 1630076103172,
+                "duration": 0
+              },
+              "flaky": false,
+              "parameters": []
+            },
+            {
+              "name": "test_inside_the_severity_normal_test_class_with_overriding_critical_severity",
+              "uid": "642ba902499e2bbe",
+              "parentUid": "1747cb5031dbe9412358efcaff4eec21",
+              "status": "passed",
+              "time": {
+                "start": 1630076103173,
+                "stop": 1630076103173,
+                "duration": 0
+              },
+              "flaky": false,
+              "parameters": []
+            }
+          ],
+          "uid": "1747cb5031dbe9412358efcaff4eec21"
+        }
+      ],
+      "uid": "513a16b278769f146ebbb1f54ec89723"
+    }
+  ]
+}

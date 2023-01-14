@@ -1,0 +1,48 @@
+{
+  "name": "test_login_success_a",
+  "status": "passed",
+  "start": 1630055780465,
+  "stop": 1630055780465,
+  "uuid": "8fa88b59-6354-44c5-a2bb-6ff5a4c88e80",
+  "historyId": "3c33139c100f72b96a66c9c297e933dc",
+  "testCaseId": "a109dddca17c4e5324cfd704afb53f61",
+  "fullName": "test_008_allure_install.TestLogin#test_login_success_a",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "story",
+      "value": "登录失败"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "95997-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    }
+  ]
+}

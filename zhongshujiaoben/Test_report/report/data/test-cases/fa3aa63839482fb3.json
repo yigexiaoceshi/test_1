@@ -1,0 +1,89 @@
+{
+  "uid" : "fa3aa63839482fb3",
+  "name" : "密钥申请授权接口",
+  "fullName" : "test_customer_kongzhitai.Test_MiyaoManage#test_miyaoshouquan",
+  "historyId" : "5d593c42dde4746593fa3756699fe1d9",
+  "time" : {
+    "start" : 1621995778385,
+    "stop" : 1621995778408,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_customer_kongzhitai.Test_MiyaoManage object at 0x10f7dac70>\n\n    @allure.story('密钥管理')\n    @allure.title('密钥申请授权接口')\n    def test_miyaoshouquan(self):\n>       guanlian_id = ke.list_guanlianzhanghao()[0]\n\ntest_customer_kongzhitai.py:296: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.kongzhitai.anquanguanli.KeyManagement.Key object at 0x10f2a0cd0>\n\n    def list_guanlianzhanghao(self):\n        url = f'{self.url}/api/v2/secret/subSecretList'\n        header = {'Content-Type': 'application/json'}\n        data = {\n              \"reqHeader\": {\n            \"userId\":self.userid,\n            \"token\":self.token\n          },\n              \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"userId\":self.userid\n              }\n            }\n        res = requests.post(url, headers=header, data=json.dumps(data))\n>       guanlianzhanghaoid1 = res.json()['data']['items']\nE       KeyError: 'data'\n\n../../Customer_platform/API/kongzhitai/anquanguanli/KeyManagement.py:63: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'",
+    "statusTrace" : "self = <Test_case.Test_APIcase.test_customer_kongzhitai.Test_MiyaoManage object at 0x10f7dac70>\n\n    @allure.story('密钥管理')\n    @allure.title('密钥申请授权接口')\n    def test_miyaoshouquan(self):\n>       guanlian_id = ke.list_guanlianzhanghao()[0]\n\ntest_customer_kongzhitai.py:296: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.kongzhitai.anquanguanli.KeyManagement.Key object at 0x10f2a0cd0>\n\n    def list_guanlianzhanghao(self):\n        url = f'{self.url}/api/v2/secret/subSecretList'\n        header = {'Content-Type': 'application/json'}\n        data = {\n              \"reqHeader\": {\n            \"userId\":self.userid,\n            \"token\":self.token\n          },\n              \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"userId\":self.userid\n              }\n            }\n        res = requests.post(url, headers=header, data=json.dumps(data))\n>       guanlianzhanghaoid1 = res.json()['data']['items']\nE       KeyError: 'data'\n\n../../Customer_platform/API/kongzhitai/anquanguanli/KeyManagement.py:63: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "848465ad28738c6d",
+      "name" : "log",
+      "source" : "848465ad28738c6d.txt",
+      "type" : "text/plain",
+      "size" : 278
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "密钥管理"
+  }, {
+    "name" : "feature",
+    "value" : "安全管理"
+  }, {
+    "name" : "epic",
+    "value" : "控制台"
+  }, {
+    "name" : "tag",
+    "value" : "miyao"
+  }, {
+    "name" : "suite",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_MiyaoManage"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "miyao" ]
+  },
+  "source" : "fa3aa63839482fb3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,114 @@
+{
+  "total" : 11,
+  "items" : [ {
+    "uid" : "9bcecf9bb07ddfd954abee74b74de30d",
+    "name" : "Operation_Magage",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 26,
+      "unknown" : 0,
+      "total" : 32
+    }
+  }, {
+    "uid" : "e09bed7e02a344833ab935b87b8edccf",
+    "name" : "Test_Case.Test_APIcase",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 38,
+      "skipped" : 0,
+      "passed" : 97,
+      "unknown" : 0,
+      "total" : 137
+    }
+  }, {
+    "uid" : "1a0972ed89d7c7faf14f1b3506eb1ec2",
+    "name" : "test_shujvxietong",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "f0cac1799b425a4446fabb998c13d549",
+    "name" : "test_customer_kongzhitai",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 37,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 37
+    }
+  }, {
+    "uid" : "fe35d94662683e03de1aafff60232027",
+    "name" : "test_bucket",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 15,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "eafe8219c239369ca121e55b3d27aafd",
+    "name" : "test_device",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 14,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
+    "uid" : "97af2f16eb30ac43b49b3cab520a0d8e",
+    "name" : "test_proxy",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "7377e520251de158858bcd033982e0c3",
+    "name" : "test_operation_ziyuanzhongxin",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "e807832c3e26167b8db9edad7192910a",
+    "name" : "test_operation_renyuanguanli",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "76c4e0096201124132d2e9d20282601b",
+    "name" : "Test_Case.Test_UIcase",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 7
+    }
+  } ]
+}

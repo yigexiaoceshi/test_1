@@ -1,0 +1,101 @@
+{
+  "uid" : "d372f8441505af91",
+  "name" : "查询订阅中数据接口",
+  "fullName" : "Test_Case.Test_APIcase.test_shujvxietong.Test_I_data#test_5listdingyuedata",
+  "historyId" : "c757fbf040c58c8ed013c9b9e0b392e0",
+  "time" : {
+    "start" : 1621999799662,
+    "stop" : 1621999799692,
+    "duration" : 30
+  },
+  "status" : "failed",
+  "statusMessage" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nTest_Case/Test_APIcase/test_shujvxietong.py:128: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200', '失败原因是：%s' % result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nTest_Case/Test_APIcase/test_shujvxietong.py:129: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+  "statusTrace" : "tp = <class 'pytest_assume.plugin.FailedAssumption'>, value = None, tb = None\n\n    def reraise(tp, value, tb=None):\n        try:\n            if value is None:\n                value = tp()\n            if value.__traceback__ is not tb:\n>               raise value.with_traceback(tb)\nE               pytest_assume.plugin.FailedAssumption: \nE               2 Failed Assumptions:\nE               \nE               Test_Case/Test_APIcase/test_shujvxietong.py:128: AssumptionFailure\nE               >>\tpytest.assume(str(result['code']) == '200', '失败原因是：%s' % result['message'])\nE               AssertionError: 失败原因是：请求参数不对，请检查请求形式\nE               assert False\nE               \nE               Test_Case/Test_APIcase/test_shujvxietong.py:129: AssumptionFailure\nE               >>\tpytest.assume(result['success'] == True)\nE               AssertionError: assert False\n\n/usr/local/lib/python3.8/site-packages/six.py:702: FailedAssumption",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据协同"
+  }, {
+    "name" : "story",
+    "value" : "我的数据"
+  }, {
+    "name" : "tag",
+    "value" : "wodedata"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_shujvxietong"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_I_data"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_shujvxietong"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "wodedata" ]
+  },
+  "source" : "d372f8441505af91.json",
+  "parameterValues" : [ ]
+}

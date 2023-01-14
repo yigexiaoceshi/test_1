@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="centralsystem-test-case" />
+    <orderEntry type="module" module-name="zhongshuxitong" />
+    <orderEntry type="module" module-name="爬虫" />
+    <orderEntry type="module" module-name="django_test" />
+    <orderEntry type="module" module-name="django" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="mysite_django" />
+    <orderEntry type="module" module-name="guest" />
+    <orderEntry type="module" module-name="zhongshu" />
+    <orderEntry type="module" module-name="Dingding" />
+    <orderEntry type="module" module-name="wecat" />
+    <orderEntry type="module" module-name="Thread" />
+    <orderEntry type="module" module-name="locust" />
+    <orderEntry type="module" module-name="standard-citybrain-doc" />
+    <orderEntry type="module" module-name="152" />
+    <orderEntry type="module" module-name="中枢-紧急回归script" />
+    <orderEntry type="module" module-name="中枢-紧急回归script" />
+    <orderEntry type="module" module-name="中枢-紧急回归script" />
+    <orderEntry type="module" module-name="standard-citybrain-doc" />
+    <orderEntry type="module" module-name="standard-citybrain-doc" />
+    <orderEntry type="module" module-name="standard-citybrain-doc" />
+    <orderEntry type="module" module-name="pythonProject" />
+  </component>
+</module>

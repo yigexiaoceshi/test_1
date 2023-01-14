@@ -1,0 +1,93 @@
+{
+  "uid" : "eb695601c68aebf9",
+  "name" : "编辑运营用户",
+  "fullName" : "test_operation_renyuanguanli.Test_new_operation#test_edit_user",
+  "historyId" : "3ab5ee9b982550a8fc4fef377d3aea40",
+  "time" : {
+    "start" : 1621995833288,
+    "stop" : 1621995833342,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_loginname",
+    "time" : {
+      "start" : 1621995833053,
+      "stop" : 1621995833081,
+      "duration" : 28
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3bb2b358ed2d0176",
+      "name" : "log",
+      "source" : "3bb2b358ed2d0176.txt",
+      "type" : "text/plain",
+      "size" : 563
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "运营平台"
+  }, {
+    "name" : "feature",
+    "value" : "人员管理"
+  }, {
+    "name" : "story",
+    "value" : "运营人员"
+  }, {
+    "name" : "suite",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_new_operation"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb695601c68aebf9.json",
+  "parameterValues" : [ ]
+}

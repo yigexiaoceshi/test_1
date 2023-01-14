@@ -1,0 +1,91 @@
+{
+  "uid" : "3fc6a42b958aee41",
+  "name" : "我的服务-停用",
+  "fullName" : "test_proxy.Test_my_proxy#test_my_proxy_disable",
+  "historyId" : "34bd1040a5fd8fb05e3adde471fbbe7b",
+  "time" : {
+    "start" : 1621995859218,
+    "stop" : 1621995859218,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "@pytest.fixture(scope=\"module\")\n    def test_myproxy():\n        res_add=ad.add_newproxy()\n        name=res_add[1]\n        res=res_add[0]\n>       res_mp=mp.my_proxy_list(name)\n\ntest_proxy.py:24: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.proxy.my_proxy.My_proxy object at 0x10f5665b0>, appCode = 'zcj57621333'\n\n    def my_proxy_list(self,appCode):\n        url=f'{self.url}/api/v2/agent/proxyServer/myServer/myList'\n        header={\"Content-Type\":\"application/json;charset=UTF-8\"}\n        data={\n            \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"appCode\": appCode\n            },\n            \"reqHeader\": {\n                \"clientType\": \"web\",\n                \"requestId\": \"123456789012\",\n                \"requestTime\": \"1615343570119\",\n                \"token\": self.token,\n                \"userId\": self.userid,\n                \"userName\": self.username\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data)).json()\n>       id=res[\"data\"][\"list\"][0][\"id\"]\nE       KeyError: 'data'\n\n../../Customer_platform/API/proxy/my_proxy.py:38: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_myproxy",
+    "time" : {
+      "start" : 1621995859032,
+      "stop" : 1621995859118,
+      "duration" : 86
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Test_case/Test_APIcase/test_proxy.py\", line 24, in test_myproxy\n    res_mp=mp.my_proxy_list(name)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Customer_platform/API/proxy/my_proxy.py\", line 38, in my_proxy_list\n    id=res[\"data\"][\"list\"][0][\"id\"]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "代理服务"
+  }, {
+    "name" : "feature",
+    "value" : "我的服务"
+  }, {
+    "name" : "suite",
+    "value" : "test_proxy"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_my_proxy"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_proxy"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c78424a5b4be574c",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1619507159214,
+        "stop" : 1619507159214,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3fc6a42b958aee41.json",
+  "parameterValues" : [ ]
+}

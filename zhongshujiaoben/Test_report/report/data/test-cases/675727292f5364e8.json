@@ -1,0 +1,88 @@
+{
+  "uid" : "675727292f5364e8",
+  "name" : "查看附件",
+  "fullName" : "test_customer_kongzhitai.Test_shujvxietong#test_sjfujian",
+  "historyId" : "b7deafc2329b7a941cbcd9b72a293f95",
+  "time" : {
+    "start" : 1621995777853,
+    "stop" : 1621995777853,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "@pytest.fixture(scope='class')\n    def test_Huoqudanhao():\n>       danhao=sj.huoqudanhao()\n\ntest_customer_kongzhitai.py:113: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.kongzhitai.woshenqingde.shujvshouquan.shujv object at 0x10f3ffc40>\n\n    def huoqudanhao(self):\n        url=f'{self.url}/api/v2/agent/customerIndicatorList'\n        header={\"Content-Type\":\"application/json\"}\n        data={\n            \"reqHeader\": {\n                \"userId\": self.userid,\n                \"userName\": username,\n                \"token\": self.token,\n                \"clientType\": \"web\",\n                \"requestTime\": requestTime,\n                \"requestId\": \"123456789012\"\n            },\n            \"reqBody\": {\n                \"pageNumber\": 1,\n                \"pageSize\": 10,\n                \"sourceApiCode\": None,\n                \"apiDesc\": None,\n                \"targetAppName\": \"\",\n                \"applyBillCode\": \"\",\n                \"applyType\": 3\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data))\n>       total=res.json()[\"data\"][\"total\"]\nE       KeyError: 'data'\n\n../../Customer_platform/API/kongzhitai/woshenqingde/shujvshouquan.py:42: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_Huoqudanhao",
+    "time" : {
+      "start" : 1621995777783,
+      "stop" : 1621995777818,
+      "duration" : 35
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Test_case/Test_APIcase/test_customer_kongzhitai.py\", line 113, in test_Huoqudanhao\n    danhao=sj.huoqudanhao()\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Customer_platform/API/kongzhitai/woshenqingde/shujvshouquan.py\", line 42, in huoqudanhao\n    total=res.json()[\"data\"][\"total\"]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "审批流程"
+  }, {
+    "name" : "story",
+    "value" : "数据授权"
+  }, {
+    "name" : "epic",
+    "value" : "控制台"
+  }, {
+    "name" : "tag",
+    "value" : "shenpi"
+  }, {
+    "name" : "suite",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_shujvxietong"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "shenpi" ]
+  },
+  "source" : "675727292f5364e8.json",
+  "parameterValues" : [ ]
+}

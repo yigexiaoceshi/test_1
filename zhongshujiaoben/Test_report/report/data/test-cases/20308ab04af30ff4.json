@@ -1,0 +1,110 @@
+{
+  "uid" : "20308ab04af30ff4",
+  "name" : "编辑账号接口",
+  "fullName" : "Test_Case.Test_APIcase.test_kongzhitai.Test_AccountManage#test_edit_account",
+  "historyId" : "f1f47c0e69ff782b4c202c7f7fe3d88f",
+  "time" : {
+    "start" : 1621999739390,
+    "stop" : 1621999739506,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_account",
+    "time" : {
+      "start" : 1621999739219,
+      "stop" : 1621999739279,
+      "duration" : 60
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "账号管理"
+  }, {
+    "name" : "feature",
+    "value" : "控制台"
+  }, {
+    "name" : "tag",
+    "value" : "account"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_kongzhitai"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_AccountManage"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_kongzhitai"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "account" ]
+  },
+  "source" : "20308ab04af30ff4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,104 @@
+{
+  "uid" : "a9db61aebbd13d84",
+  "name" : "查询角色接口",
+  "fullName" : "test_customer_kongzhitai.Test_RoleManage#test_listrole",
+  "historyId" : "b63b10e539d38769db47c1176f25b4ff",
+  "time" : {
+    "start" : 1621995778038,
+    "stop" : 1621995778071,
+    "duration" : 33
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'code'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_customer_kongzhitai.Test_RoleManage object at 0x10f7559a0>\ntest_role = ({'error': 'Internal Server Error', 'message': '系统异常，请稍后再试。', 'path': '/api/v2/privilege/role/create', 'status': 500, ...}, '角色1621995770463')\n\n    @pytest.mark.run(order=2)\n    @allure.story('角色管理')\n    @allure.title('查询角色接口')\n    def test_listrole(self,test_role):\n        #rolename = add_role()[1]\n        result = ro.list_role(test_role[1])\n>       pytest.assume(str(result['code']) == '200')\nE       KeyError: 'code'\n\ntest_customer_kongzhitai.py:198: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_role",
+    "time" : {
+      "start" : 1621995777983,
+      "stop" : 1621995778020,
+      "duration" : 37
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'code'",
+    "statusTrace" : "self = <Test_case.Test_APIcase.test_customer_kongzhitai.Test_RoleManage object at 0x10f7559a0>\ntest_role = ({'error': 'Internal Server Error', 'message': '系统异常，请稍后再试。', 'path': '/api/v2/privilege/role/create', 'status': 500, ...}, '角色1621995770463')\n\n    @pytest.mark.run(order=2)\n    @allure.story('角色管理')\n    @allure.title('查询角色接口')\n    def test_listrole(self,test_role):\n        #rolename = add_role()[1]\n        result = ro.list_role(test_role[1])\n>       pytest.assume(str(result['code']) == '200')\nE       KeyError: 'code'\n\ntest_customer_kongzhitai.py:198: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a6c7b699e19012b9",
+      "name" : "log",
+      "source" : "a6c7b699e19012b9.txt",
+      "type" : "text/plain",
+      "size" : 279
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "账号权限"
+  }, {
+    "name" : "story",
+    "value" : "角色管理"
+  }, {
+    "name" : "epic",
+    "value" : "控制台"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_RoleManage"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "a9db61aebbd13d84.json",
+  "parameterValues" : [ ]
+}

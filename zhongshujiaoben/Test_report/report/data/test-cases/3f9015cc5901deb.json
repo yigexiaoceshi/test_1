@@ -1,0 +1,95 @@
+{
+  "uid" : "3f9015cc5901deb",
+  "name" : "启用运营人员接口",
+  "fullName" : "Test_Case.Test_APIcase.test_yunying.Test_yunyingpeople#test_5qiyongyunyingrenyuan",
+  "historyId" : "82d6f79157022b47447fda4cd2d6d25c",
+  "time" : {
+    "start" : 1621999801221,
+    "stop" : 1621999801331,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "运营人员"
+  }, {
+    "name" : "feature",
+    "value" : "运营平台"
+  }, {
+    "name" : "tag",
+    "value" : "yunyingrenyuan"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_yunying"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_yunyingpeople"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_yunying"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "yunyingrenyuan" ]
+  },
+  "source" : "3f9015cc5901deb.json",
+  "parameterValues" : [ ]
+}

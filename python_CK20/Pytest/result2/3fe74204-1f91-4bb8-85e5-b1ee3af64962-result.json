@@ -1,0 +1,44 @@
+{
+  "name": "test_case1",
+  "status": "passed",
+  "start": 1630056054369,
+  "stop": 1630056054369,
+  "uuid": "2cef7be1-6347-4f1a-810f-aa0b61326bd5",
+  "historyId": "47e1a2dfa68abc361af8cc893a4adf56",
+  "testCaseId": "49b9021b69c63c2b4a02c04735f1157a",
+  "fullName": "test_008_allure_install.TestSearch#test_case1",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "搜索模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSearch"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "96109-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    }
+  ]
+}

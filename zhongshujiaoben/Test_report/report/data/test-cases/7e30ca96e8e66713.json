@@ -1,0 +1,110 @@
+{
+  "uid" : "7e30ca96e8e66713",
+  "name" : "接入方人员启用接口",
+  "fullName" : "Test_Case.Test_APIcase.test_yunying.Test_jierufangpeople#test_5qiyongjierufangrenyuan",
+  "historyId" : "bdbd2866eba62c6fa92ad8589e7a24dd",
+  "time" : {
+    "start" : 1621999801552,
+    "stop" : 1621999801613,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "jierufangrenyuan",
+    "time" : {
+      "start" : 1621999801333,
+      "stop" : 1621999801370,
+      "duration" : 37
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "接入方管理"
+  }, {
+    "name" : "feature",
+    "value" : "运营平台"
+  }, {
+    "name" : "tag",
+    "value" : "jierufang"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_yunying"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_jierufangpeople"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_yunying"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "jierufang" ]
+  },
+  "source" : "7e30ca96e8e66713.json",
+  "parameterValues" : [ ]
+}

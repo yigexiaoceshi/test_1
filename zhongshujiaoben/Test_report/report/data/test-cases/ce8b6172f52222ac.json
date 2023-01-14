@@ -1,0 +1,84 @@
+{
+  "uid" : "ce8b6172f52222ac",
+  "name" : "创建运营账号",
+  "fullName" : "test_operation_renyuanguanli.Test_new_operation#test_add_operationuser",
+  "historyId" : "af39e80fc18e3c213f0eb744348f3d4a",
+  "time" : {
+    "start" : 1621995833004,
+    "stop" : 1621995833051,
+    "duration" : 47
+  },
+  "description" : "\n        用例描述：\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        用例描述：\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ba10ea13b223a72c",
+      "name" : "log",
+      "source" : "ba10ea13b223a72c.txt",
+      "type" : "text/plain",
+      "size" : 283
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "运营平台"
+  }, {
+    "name" : "feature",
+    "value" : "人员管理"
+  }, {
+    "name" : "story",
+    "value" : "运营人员"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_new_operation"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "ce8b6172f52222ac.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,83 @@
+{
+  "uid" : "9516b5ac1b364af3",
+  "name" : "Topic编辑接口",
+  "fullName" : "test_xiaoxixietong.Test_wodetopic#test_edittopic",
+  "historyId" : "a5e7b1ccc50eb07d7ccbb6310caf4a9b",
+  "time" : {
+    "start" : 1623218435291,
+    "stop" : 1623218460370,
+    "duration" : 25079
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: tuple indices must be integers or slices, not str",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_xiaoxixietong.Test_wodetopic object at 0x109403a00>\n\n    @allure.title('Topic编辑接口')\n    def test_edittopic(self):\n        xitongname = sy.add_xitong()[1]\n>       rebody = sy.list_xitong(xitongname)['data']['list']\nE       TypeError: tuple indices must be integers or slices, not str\n\ntest_xiaoxixietong.py:66: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1623218382709,
+      "stop" : 1623218382756,
+      "duration" : 47
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "消息协同"
+  }, {
+    "name" : "story",
+    "value" : "我的Topic"
+  }, {
+    "name" : "tag",
+    "value" : "wodetopic"
+  }, {
+    "name" : "suite",
+    "value" : "test_xiaoxixietong"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_wodetopic"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "20617-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_xiaoxixietong"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "wodetopic" ]
+  },
+  "source" : "9516b5ac1b364af3.json",
+  "parameterValues" : [ ]
+}

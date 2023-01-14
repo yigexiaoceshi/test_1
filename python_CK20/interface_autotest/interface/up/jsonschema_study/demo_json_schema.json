@@ -1,0 +1,1 @@
+{"$schema": "http://json-schema.org/schema#", "type": "object", "properties": {"a": {"type": "integer"}, "b": {"type": "string"}, "c": {"type": ["integer", "string"]}, "d": {"type": "null"}}, "required": ["a", "b", "c"]}

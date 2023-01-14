@@ -1,0 +1,68 @@
+{
+  "name": "test_login_success",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "步骤1：打开应用",
+      "status": "passed",
+      "start": 1630053089306,
+      "stop": 1630053089306
+    },
+    {
+      "name": "步骤二：进入登录页面",
+      "status": "passed",
+      "start": 1630053089306,
+      "stop": 1630053089306
+    },
+    {
+      "name": "步骤三：输入用户名和密码",
+      "status": "passed",
+      "start": 1630053089306,
+      "stop": 1630053089306
+    }
+  ],
+  "start": 1630053089305,
+  "stop": 1630053089306,
+  "uuid": "1b10f6dc-a8a6-47eb-bc5c-b1a6a76d4623",
+  "historyId": "3a02a9a088b640854649c22358926cba",
+  "testCaseId": "b25870687d5a685469eb484a3428ba5e",
+  "fullName": "test_008_allure_install.TestLogin#test_login_success",
+  "labels": [
+    {
+      "name": "story",
+      "value": "登录成功"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "95282-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    }
+  ]
+}

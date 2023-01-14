@@ -1,0 +1,109 @@
+{
+  "uid" : "6959f10f6324d8c7",
+  "name" : "服务创建成功",
+  "fullName" : "test_proxy.Test_newproxy#test_proxy",
+  "historyId" : "8591d92b1d856b0e0639c82f04fec42a",
+  "time" : {
+    "start" : 1619507158728,
+    "stop" : 1619507158728,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "@pytest.fixture(scope=\"module\")\n    def test_myproxy():\n        res_add=ad.add_newproxy()\n        name=res_add[1]\n        res=res_add[0]\n>       res_mp=mp.my_proxy_list(name)\n\ntest_proxy.py:24: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <Customer_platform.API.proxy.my_proxy.My_proxy object at 0x1051eb040>, appCode = 'zcj48786249'\n\n    def my_proxy_list(self,appCode):\n        url=f'{self.url}/api/v2/agent/proxyServer/myServer/myList'\n        header={\"Content-Type\":\"application/json;charset=UTF-8\"}\n        data={\n            \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"appCode\": appCode\n            },\n            \"reqHeader\": {\n                \"clientType\": \"web\",\n                \"requestId\": \"123456789012\",\n                \"requestTime\": \"1615343570119\",\n                \"token\": self.token,\n                \"userId\": self.userid,\n                \"userName\": self.username\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data)).json()\n>       id=res[\"data\"][\"list\"][0][\"id\"]\nE       KeyError: 'data'\n\n../../Customer_platform/API/proxy/my_proxy.py:38: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1619507158729,
+      "stop" : 1619507158782,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "test_myproxy",
+    "time" : {
+      "start" : 1619507158782,
+      "stop" : 1619507159088,
+      "duration" : 306
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Test_case/Test_APIcase/test_proxy.py\", line 24, in test_myproxy\n    res_mp=mp.my_proxy_list(name)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Customer_platform/API/proxy/my_proxy.py\", line 38, in my_proxy_list\n    id=res[\"data\"][\"list\"][0][\"id\"]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'",
+    "statusTrace" : "@pytest.fixture(scope=\"module\")\n    def test_myproxy():\n        res_add=ad.add_newproxy()\n        name=res_add[1]\n        res=res_add[0]\n>       res_mp=mp.my_proxy_list(name)\n\ntest_proxy.py:24: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <Customer_platform.API.proxy.my_proxy.My_proxy object at 0x1051eb040>, appCode = 'zcj48786249'\n\n    def my_proxy_list(self,appCode):\n        url=f'{self.url}/api/v2/agent/proxyServer/myServer/myList'\n        header={\"Content-Type\":\"application/json;charset=UTF-8\"}\n        data={\n            \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"appCode\": appCode\n            },\n            \"reqHeader\": {\n                \"clientType\": \"web\",\n                \"requestId\": \"123456789012\",\n                \"requestTime\": \"1615343570119\",\n                \"token\": self.token,\n                \"userId\": self.userid,\n                \"userName\": self.username\n            }\n        }\n        res=requests.post(url,headers=header,data=json.dumps(data)).json()\n>       id=res[\"data\"][\"list\"][0][\"id\"]\nE       KeyError: 'data'\n\n../../Customer_platform/API/proxy/my_proxy.py:38: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "26b80e99996a0ff1",
+      "name" : "log",
+      "source" : "26b80e99996a0ff1.txt",
+      "type" : "text/plain",
+      "size" : 5284
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "服务创建"
+  }, {
+    "name" : "epic",
+    "value" : "代理服务"
+  }, {
+    "name" : "suite",
+    "value" : "test_proxy"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_newproxy"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "8778-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_proxy"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6959f10f6324d8c7.json",
+  "parameterValues" : [ ]
+}

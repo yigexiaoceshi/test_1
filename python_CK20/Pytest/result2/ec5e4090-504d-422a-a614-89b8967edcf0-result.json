@@ -1,0 +1,76 @@
+{
+  "name": "test_login_failure_b",
+  "status": "failed",
+  "statusDetails": {
+    "message": "AssertionError: assert '1' == 1\n  +'1'\n  -1",
+    "trace": "self = <test_008_allure_install.TestLogin object at 0x7fcf40325dc0>\n\n    @allure.story(\"密码缺失\")\n    def test_login_failure_b(self):\n        with allure.step(\"点击用户名\"):\n            print(\"请输入用户名\")\n        with allure.step(\"点击密码\"):\n            print(\"请输入密码\")\n        print(\"点击登录\")\n        with allure.step(\"点击登录之后登录失败\"):\n>           assert \"1\" == 1\nE           AssertionError: assert '1' == 1\nE             +'1'\nE             -1\n\ntest_008_allure_install.py:54: AssertionError"
+  },
+  "steps": [
+    {
+      "name": "点击用户名",
+      "status": "passed",
+      "start": 1630056054373,
+      "stop": 1630056054373
+    },
+    {
+      "name": "点击密码",
+      "status": "passed",
+      "start": 1630056054373,
+      "stop": 1630056054373
+    },
+    {
+      "name": "点击登录之后登录失败",
+      "status": "failed",
+      "statusDetails": {
+        "message": "AssertionError: assert '1' == 1\n  +'1'\n  -1\n",
+        "trace": "  File \"/Users/liyong/PycharmProjects/python_CK20/3_Pytest/test_008_allure_install.py\", line 54, in test_login_failure_b\n    assert \"1\" == 1\n"
+      },
+      "start": 1630056054373,
+      "stop": 1630056054373
+    }
+  ],
+  "start": 1630056054373,
+  "stop": 1630056054373,
+  "uuid": "8b8f7ed8-15e9-43be-a1fa-f487cf72602e",
+  "historyId": "7beea95f87ba53ae74ebbc3061da2a2b",
+  "testCaseId": "e37536e08350435055876eeace6ac071",
+  "fullName": "test_008_allure_install.TestLogin#test_login_failure_b",
+  "labels": [
+    {
+      "name": "story",
+      "value": "密码缺失"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "96109-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    }
+  ]
+}

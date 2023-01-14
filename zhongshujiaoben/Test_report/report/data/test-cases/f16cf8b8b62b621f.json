@@ -1,0 +1,118 @@
+{
+  "uid" : "f16cf8b8b62b621f",
+  "name" : "编辑数据源接口",
+  "fullName" : "Test_Case.Test_APIcase.test_shujvxietong.Test_shujvyuan_manage#test_editshujvyuan",
+  "historyId" : "abb09fcd63a5739c090d6df7b7da7114",
+  "time" : {
+    "start" : 1621999799832,
+    "stop" : 1621999799832,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+  "statusTrace" : "@pytest.fixture(scope='class')\n    def datayuanchushuhua():\n    \n        result = ds_y.add_shujvyuan()\n        dict1 = {}\n        dict1['res'] = result[0]\n        dict1['dataSourceCode'] = result[1]\n>       with_yaml.write_yaml_fugai(dict1)\n\nTest_Case/Test_APIcase/test_shujvxietong.py:238: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <yaml_operation.with_yaml.with_data.YamlHandler object at 0x118e44d60>\ndata = {'dataSourceCode': 'sjy1621999734749888', 'res': {'code': '500', 'message': '请求参数不对，请检查请求形式', 'success': False}}, encoding = 'utf-8'\n\n    def write_yaml_fugai(self, data,encoding='utf-8'):\n        \"\"\"向yaml文件写入数据\n            mode：写入方式： w，覆盖写入， a，追加写入\n        \"\"\"\n>       with open(self.file, encoding=encoding, mode='w') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'\n\nyaml_operation/with_yaml/with_data.py:69: FileNotFoundError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "datayuanchushuhua",
+    "time" : {
+      "start" : 1621999799783,
+      "stop" : 1621999799805,
+      "duration" : 22
+    },
+    "status" : "broken",
+    "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshu_chenyun/Test_Case/Test_APIcase/test_shujvxietong.py\", line 238, in datayuanchushuhua\n    with_yaml.write_yaml_fugai(dict1)\n  File \"/Users/apple/PycharmProjects/zhongshu_chenyun/yaml_operation/with_yaml/with_data.py\", line 69, in write_yaml_fugai\n    with open(self.file, encoding=encoding, mode='w') as f:\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据协同"
+  }, {
+    "name" : "story",
+    "value" : "数据源管理"
+  }, {
+    "name" : "tag",
+    "value" : "shujvyuanmanage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_shujvxietong"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_shujvyuan_manage"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_shujvxietong"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "shujvyuanmanage" ]
+  },
+  "source" : "f16cf8b8b62b621f.json",
+  "parameterValues" : [ ]
+}

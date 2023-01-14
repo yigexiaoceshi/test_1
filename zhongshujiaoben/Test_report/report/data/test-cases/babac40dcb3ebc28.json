@@ -1,0 +1,82 @@
+{
+  "uid" : "babac40dcb3ebc28",
+  "name" : "我的bucket-详情-基本信息",
+  "fullName" : "test_bucket.Test_bucket_my#test_bucket_xiangqing_jibenxinxi",
+  "historyId" : "01ad83f3248c2e65de5a5fac2bd64aa7",
+  "time" : {
+    "start" : 1621995771362,
+    "stop" : 1621995771362,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "@pytest.fixture(scope=\"module\")\n    def test_bucketcode():\n>       bucketcode_zcjk=bz.bucket_chuanjian()\n\ntest_bucket.py:19: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.bucket.bucket_zhuce.bucket_zc object at 0x10c474610>\n\n    def bucket_chuanjian(self):\n        # aaa = int(time.time())\n        # timeArray = time.localtime(aaa)\n        # effectiveTime = time.strftime(\"%Y_%m_%d%H_%M_%S\", timeArray)\n        bucket_name=fake.name()\n        url=f'{self.url}/api/v2/agent/fc/customer/create/bucket'\n        header={\"Content-Type\":\"application/json;charset=UTF-8\"}\n        data={\n            \"reqHeader\":{\n                \"userId\":self.userid,\n                \"userName\":self.username,\n                \"token\":self.token,\n                \"clientType\":\"web\",\n                \"requestTime\":\"1610429300921\",\n                \"requestId\":\"123456789012\"\n            },\n            \"reqBody\":{\n                \"bucketName\":bucket_name,\n                \"bucketSpace\":10737418240,\n                \"maxFileSize\":fake.ean(length=8),\n                \"openRead\":\"2\",\n                \"description\":\"测试\",\n                \"categoryCode\":\"5\"\n            }\n        }\n    \n        res=requests.post(url,headers=header,data=json.dumps(data))\n>       bucketcode=res.json()[\"data\"]\nE       KeyError: 'data'\n\n../../Customer_platform/API/bucket/bucket_zhuce.py:45: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_bucketcode",
+    "time" : {
+      "start" : 1621995771078,
+      "stop" : 1621995771214,
+      "duration" : 136
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Test_case/Test_APIcase/test_bucket.py\", line 19, in test_bucketcode\n    bucketcode_zcjk=bz.bucket_chuanjian()\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Customer_platform/API/bucket/bucket_zhuce.py\", line 45, in bucket_chuanjian\n    bucketcode=res.json()[\"data\"]\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "我的bucket"
+  }, {
+    "name" : "epic",
+    "value" : "文件管理"
+  }, {
+    "name" : "suite",
+    "value" : "test_bucket"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_bucket_my"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_bucket"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "babac40dcb3ebc28.json",
+  "parameterValues" : [ ]
+}

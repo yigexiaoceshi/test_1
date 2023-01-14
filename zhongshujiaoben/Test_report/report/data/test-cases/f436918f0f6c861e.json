@@ -1,0 +1,95 @@
+{
+  "uid" : "f436918f0f6c861e",
+  "name" : "我的指数查询（已授权）",
+  "fullName" : "Test_Case.Test_APIcase.test_zhishumanage.Test_I_zhishu#test_3list_shouquanzhishu",
+  "historyId" : "eeb23ce1da3e55dab1e52e23b6daed3e",
+  "time" : {
+    "start" : 1621999803107,
+    "stop" : 1621999803144,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_zijianAPI",
+    "time" : {
+      "start" : 1621999737787,
+      "stop" : 1621999737966,
+      "duration" : 179
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "指数管理"
+  }, {
+    "name" : "story",
+    "value" : "我的指数"
+  }, {
+    "name" : "tag",
+    "value" : "wodezhishu"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_APIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_zhishumanage"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_I_zhishu"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_APIcase.test_zhishumanage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "wodezhishu" ]
+  },
+  "source" : "f436918f0f6c861e.json",
+  "parameterValues" : [ ]
+}

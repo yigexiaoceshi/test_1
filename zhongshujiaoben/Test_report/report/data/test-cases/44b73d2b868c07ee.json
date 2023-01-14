@@ -1,0 +1,83 @@
+{
+  "uid" : "44b73d2b868c07ee",
+  "name" : "视频源批量注册",
+  "fullName" : "test_device.Test_device_zhuce#test_device_piliangzc",
+  "historyId" : "b1b143066dfab0b8b7dcc0b8934e74cf",
+  "time" : {
+    "start" : 1621995802261,
+    "stop" : 1621995832806,
+    "duration" : 30545
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'code'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_device.Test_device_zhuce object at 0x10f85d220>\n\n    @allure.title(\"视频源批量注册\")\n    def test_device_piliangzc(self):\n        result=dz.device_piliang_zhuce()\n        try:\n            pytest.assume(str(result[\"code\"])==\"200\",\"失败原因：%s\" %result[\"message\"])\n            pytest.assume(result[\"success\"]==True)\n        except Exception as err:\n            # log1.error(err)\n>           raise  err\n\ntest_device.py:51: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Test_case.Test_APIcase.test_device.Test_device_zhuce object at 0x10f85d220>\n\n    @allure.title(\"视频源批量注册\")\n    def test_device_piliangzc(self):\n        result=dz.device_piliang_zhuce()\n        try:\n>           pytest.assume(str(result[\"code\"])==\"200\",\"失败原因：%s\" %result[\"message\"])\nE           KeyError: 'code'\n\ntest_device.py:47: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'code'",
+    "statusTrace" : "self = <Test_case.Test_APIcase.test_device.Test_device_zhuce object at 0x10f85d220>\n\n    @allure.title(\"视频源批量注册\")\n    def test_device_piliangzc(self):\n        result=dz.device_piliang_zhuce()\n        try:\n            pytest.assume(str(result[\"code\"])==\"200\",\"失败原因：%s\" %result[\"message\"])\n            pytest.assume(result[\"success\"]==True)\n        except Exception as err:\n            # log1.error(err)\n>           raise  err\n\ntest_device.py:51: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Test_case.Test_APIcase.test_device.Test_device_zhuce object at 0x10f85d220>\n\n    @allure.title(\"视频源批量注册\")\n    def test_device_piliangzc(self):\n        result=dz.device_piliang_zhuce()\n        try:\n>           pytest.assume(str(result[\"code\"])==\"200\",\"失败原因：%s\" %result[\"message\"])\nE           KeyError: 'code'\n\ntest_device.py:47: KeyError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "39a9bf021cb10e98",
+      "name" : "log",
+      "source" : "39a9bf021cb10e98.txt",
+      "type" : "text/plain",
+      "size" : 274
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "视频源接入"
+  }, {
+    "name" : "feature",
+    "value" : "视频源注册"
+  }, {
+    "name" : "suite",
+    "value" : "test_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_device_zhuce"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "44b73d2b868c07ee.json",
+  "parameterValues" : [ ]
+}

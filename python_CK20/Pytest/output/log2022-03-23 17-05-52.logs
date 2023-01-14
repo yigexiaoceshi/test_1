@@ -1,0 +1,1 @@
+2022-03-23 17:05:52 [ERROR] 验证出错，出错的位置为b,出错的信息是1 is not of type 'string' (test_json_schema.py:34)

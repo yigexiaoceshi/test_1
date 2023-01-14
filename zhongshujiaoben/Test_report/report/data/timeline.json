@@ -1,0 +1,3899 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "zhouchengjiedeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "28577-MainThread",
+      "children" : [ {
+        "name" : "类目启用接口",
+        "uid" : "3565e64e7a813316",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740329,
+          "stop" : 1621999740329,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部API标准类目接口",
+        "uid" : "7648cd7d42cc0c3b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999736843,
+          "stop" : 1621999736844,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询接入方人员接口",
+        "uid" : "eb0bb575d31e8884",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801381,
+          "stop" : 1621999801415,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目删除接口",
+        "uid" : "86b93428dc11ecd3",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802759,
+          "stop" : 1621999802796,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑运营人员接口",
+        "uid" : "763c7a096aab9c8b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801046,
+          "stop" : 1621999801128,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部API接口",
+        "uid" : "a0e22b6cb23a66dd",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736659,
+          "stop" : 1621999736709,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑数据接口",
+        "uid" : "e708ffd9eeb0e9ae",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799598,
+          "stop" : 1621999799598,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(订阅中)接口",
+        "uid" : "f34149aef1b472b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800049,
+          "stop" : 1621999800083,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket文件移动接口",
+        "uid" : "1b59ff8f66f687c8",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738857,
+          "stop" : 1621999738857,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑角色接口",
+        "uid" : "ceb10d07359a2c0d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739043,
+          "stop" : 1621999739128,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket上传文件接口",
+        "uid" : "56e27e754a4d301e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738833,
+          "stop" : 1621999738833,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目停用接口",
+        "uid" : "8ccdc833d20f0ebf",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740314,
+          "stop" : 1621999740314,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询接入方人员接口",
+        "uid" : "cab81e8e8d2ee8f4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736546,
+          "stop" : 1621999736595,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除角色接口",
+        "uid" : "53aff97ca9bb8634",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739155,
+          "stop" : 1621999739217,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建接入方账号",
+        "uid" : "192a19d43a0f109e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999804045,
+          "stop" : 1621999804069,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'陈云的接入方1111'", "'chenyun1111'", "'陈云1111'" ]
+      }, {
+        "name" : "编辑数据源接口",
+        "uid" : "f16cf8b8b62b621f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799832,
+          "stop" : 1621999799832,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "运营管理系统",
+        "uid" : "836f5f20a5f44c35",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999806425,
+          "stop" : 1621999806426,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2lidtmvleimu",
+        "uid" : "7e81ffa0e682366e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738515,
+          "stop" : 1621999738546,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询系统接口",
+        "uid" : "ae0e6918e264c2b7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800212,
+          "stop" : 1621999800242,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方管理系统",
+        "uid" : "80dc73cac2e4cd57",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999806463,
+          "stop" : 1621999806463,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建子类目接口",
+        "uid" : "d7e063cf3e13ff63",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740235,
+          "stop" : 1621999740235,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目编辑接口",
+        "uid" : "8cc704da65460709",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802615,
+          "stop" : 1621999802682,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-列出自定义维度",
+        "uid" : "1477ce8d093a942c",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803663,
+          "stop" : 1621999803726,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "所有类目组接口",
+        "uid" : "310ed179b436cd20",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802481,
+          "stop" : 1621999802534,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增角色接口",
+        "uid" : "90ad21f88e55ca9d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738907,
+          "stop" : 1621999738955,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "申请授权接口",
+        "uid" : "45843f99d6884cf1",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800789,
+          "stop" : 1621999800952,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询角色接口",
+        "uid" : "6c32bfe69244bb7e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738983,
+          "stop" : 1621999739017,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增数据源接口",
+        "uid" : "dd0e3d27cb37427d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799783,
+          "stop" : 1621999799783,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-标准维度查询",
+        "uid" : "57649d9bd68872ea",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737439,
+          "stop" : 1621999737475,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "申请授权接口",
+        "uid" : "3a5acd94ef9fcc11",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799914,
+          "stop" : 1621999799933,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(注册)接口",
+        "uid" : "bd0105eb41ff706d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799998,
+          "stop" : 1621999799998,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看bucket创建接口",
+        "uid" : "2e3d65bb84830572",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738751,
+          "stop" : 1621999738751,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "重新执行任务接口",
+        "uid" : "a5430522543d6608",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799773,
+          "stop" : 1621999799773,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-启用自定义维度",
+        "uid" : "563a948b9fbf8696",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803920,
+          "stop" : 1621999804041,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "系统启用接口",
+        "uid" : "4ddd4b84aa5e354d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800366,
+          "stop" : 1621999800418,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询自定义指数类目接口",
+        "uid" : "f9aa8f2c76b7f08b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737407,
+          "stop" : 1621999737437,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出标准类目接口",
+        "uid" : "f9db189b3671659e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737158,
+          "stop" : 1621999737198,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用任务接口",
+        "uid" : "e99e1f50d47c3fb4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799732,
+          "stop" : 1621999799732,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "密钥启用接口",
+        "uid" : "1c110d0fd2195856",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802178,
+          "stop" : 1621999802235,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询数据源接口",
+        "uid" : "b238c580ff1d9268",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621999737570,
+          "stop" : 1621999737596,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑系统接口",
+        "uid" : "d9ad469953994bda",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800244,
+          "stop" : 1621999800303,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "所有类目组接口",
+        "uid" : "5b61588ff7b934c0",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999740196,
+          "stop" : 1621999740233,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增账号接口",
+        "uid" : "2384a40f2fff3e90",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739280,
+          "stop" : 1621999739287,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "API授权审批流程",
+        "uid" : "4e8dd07b860e57ec",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999740358,
+          "stop" : 1621999755298,
+          "duration" : 14940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源上传文件接口",
+        "uid" : "6bdfce0c986e21f2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738407,
+          "stop" : 1621999738472,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket注册接口",
+        "uid" : "fd32901f712c83ae",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738681,
+          "stop" : 1621999738681,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部映射接口",
+        "uid" : "d6f7b3cd2107c70f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736805,
+          "stop" : 1621999736841,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询密钥接口",
+        "uid" : "1deeade485f55b88",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739509,
+          "stop" : 1621999739547,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket文件删除接口",
+        "uid" : "714e97fbd8ba86d2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738885,
+          "stop" : 1621999738885,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-新增自定义维度",
+        "uid" : "3ca8dc5be7ccbb0f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803619,
+          "stop" : 1621999803661,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询API接口",
+        "uid" : "5d08498a6bd71367",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800427,
+          "stop" : 1621999800460,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-编辑自定义维度",
+        "uid" : "2c0794fca1d0aacd",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803729,
+          "stop" : 1621999803830,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "已授权视频源列表接口",
+        "uid" : "f696e5bf9fe992a6",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738231,
+          "stop" : 1621999738256,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询已注册数据接口",
+        "uid" : "c2e5138acd4c2438",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799588,
+          "stop" : 1621999799588,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥申请授权接口",
+        "uid" : "f2b8bd2b6d820672",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739862,
+          "stop" : 1621999739956,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询运营人员接口",
+        "uid" : "b419f221f136dcc3",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800991,
+          "stop" : 1621999801044,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出API接口",
+        "uid" : "13ba035771654ca",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737111,
+          "stop" : 1621999737156,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请接口",
+        "uid" : "a9e6407bbd58f753",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738370,
+          "stop" : 1621999738405,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询公钥接口",
+        "uid" : "15ea3744c0c5dfc5",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737006,
+          "stop" : 1621999737034,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket文件重命名接口",
+        "uid" : "a459a53bc832d4a3",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738871,
+          "stop" : 1621999738871,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目启用接口",
+        "uid" : "7db3cb9d73ab564f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802721,
+          "stop" : 1621999802757,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询密钥接口",
+        "uid" : "f57b1d769d6ca00a",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736973,
+          "stop" : 1621999737004,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出标准指数类目接口",
+        "uid" : "bbea99f739a05f7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737371,
+          "stop" : 1621999737404,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "批量新增视频源接口",
+        "uid" : "bc386a4049704ba",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738013,
+          "stop" : 1621999738123,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建接入方账号",
+        "uid" : "440f98ed9866887a",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999804074,
+          "stop" : 1621999804101,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'陈云的接入方2222'", "'chenyun2222'", "'陈云2222'" ]
+      }, {
+        "name" : "任务执行接口",
+        "uid" : "a5a54ae1e26bc10d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799753,
+          "stop" : 1621999799753,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic注册接口",
+        "uid" : "63da47af3ea9749e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799945,
+          "stop" : 1621999799945,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "消息查询-我发送的",
+        "uid" : "92548a19bd7efde5",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800102,
+          "stop" : 1621999800131,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic详情接口",
+        "uid" : "3338fd32d226d8ef",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999800085,
+          "stop" : 1621999800085,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部密钥接口",
+        "uid" : "31040c56b50ce1f3",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736750,
+          "stop" : 1621999736803,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "指数申请授权接口",
+        "uid" : "27a3ee7431343d36",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803409,
+          "stop" : 1621999803579,
+          "duration" : 170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部指数接口",
+        "uid" : "acff5c388eee54bf",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736599,
+          "stop" : 1621999736654,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建运营人员接口",
+        "uid" : "a60b185d1a69e316",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800955,
+          "stop" : 1621999800988,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询密钥接口",
+        "uid" : "6fc7bb42fa639a75",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802011,
+          "stop" : 1621999802049,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询自定义类目接口",
+        "uid" : "6d706f6fdc25b474",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737201,
+          "stop" : 1621999737239,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的指数查询（已授权）",
+        "uid" : "f436918f0f6c861e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803107,
+          "stop" : 1621999803144,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源列表接口",
+        "uid" : "56b3d1fca2f492cc",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738126,
+          "stop" : 1621999738228,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "API停用接口",
+        "uid" : "f20f931550beced5",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800527,
+          "stop" : 1621999800595,
+          "duration" : 68
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(订阅中)接口",
+        "uid" : "8ae4d2be69bbda32",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737745,
+          "stop" : 1621999737785,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询系统接口",
+        "uid" : "b1d51440f9b169dd",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737036,
+          "stop" : 1621999737066,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询账号接口",
+        "uid" : "31287d06845b47f4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739289,
+          "stop" : 1621999739318,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-列出自定义维度",
+        "uid" : "764a29955052c618",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737477,
+          "stop" : 1621999737514,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看bucket授权给我接口",
+        "uid" : "9c60f814db27e625",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738764,
+          "stop" : 1621999738764,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部指数查询接口",
+        "uid" : "1d1f2ea7e0964f02",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801616,
+          "stop" : 1621999801670,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "运营管理系统",
+        "uid" : "a2861cf1d458a7ab",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999806435,
+          "stop" : 1621999806435,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(已授权)接口",
+        "uid" : "d2bee6cefcdb622d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737704,
+          "stop" : 1621999737743,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-标准维度查询",
+        "uid" : "93e7dde13cca7886",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803582,
+          "stop" : 1621999803617,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目详情接口",
+        "uid" : "6544f69832d85d2d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740248,
+          "stop" : 1621999740248,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部数据标准类目接口",
+        "uid" : "4b7eb6f4e2d9a50c",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999736866,
+          "stop" : 1621999736866,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "系统停用接口",
+        "uid" : "3f29066189f9de43",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800307,
+          "stop" : 1621999800363,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询账号接口",
+        "uid" : "b0172257e82458e2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736921,
+          "stop" : 1621999736971,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增视频源接口",
+        "uid" : "52019f8b91874da8",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738004,
+          "stop" : 1621999738010,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询映射接口",
+        "uid" : "601987a5937bcb7d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802352,
+          "stop" : 1621999802393,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方人员停用接口",
+        "uid" : "7892ca39ab2982ee",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801486,
+          "stop" : 1621999801549,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询API接口",
+        "uid" : "12a242e7e43303f0",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737068,
+          "stop" : 1621999737109,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "数据申请授权上传附件接口",
+        "uid" : "96f22f81bbeda857",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999799855,
+          "stop" : 1621999799912,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的指数查询（已注册）",
+        "uid" : "69ff73d4fc65c1e4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803066,
+          "stop" : 1621999803105,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询已授权数据接口",
+        "uid" : "9cd488dd9a3eddd2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621999737517,
+          "stop" : 1621999737549,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "导出API目录列表接口",
+        "uid" : "d8a877f5d6f1b908",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801835,
+          "stop" : 1621999801940,
+          "duration" : 105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方人员启用接口",
+        "uid" : "7e30ca96e8e66713",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801552,
+          "stop" : 1621999801613,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看账号详情接口",
+        "uid" : "2d1339c52114246b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739321,
+          "stop" : 1621999739388,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看bucket#基本信息接口",
+        "uid" : "a5b5b87fa20d5f43",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738789,
+          "stop" : 1621999738789,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试数据源接口",
+        "uid" : "343a08cafd163625",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799843,
+          "stop" : 1621999799843,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "消息-我消费的",
+        "uid" : "137ca64187117ad2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800133,
+          "stop" : 1621999800162,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥停用接口",
+        "uid" : "bdaafd6057db213",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739958,
+          "stop" : 1621999740014,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方管理系统",
+        "uid" : "7f8d4c291b0ad025",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999806454,
+          "stop" : 1621999806454,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chenyun2222'", "'chenyun2222'" ]
+      }, {
+        "name" : "密钥申请授权接口",
+        "uid" : "3b03f8b65bd077db",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739585,
+          "stop" : 1621999739695,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用运营人员接口",
+        "uid" : "3f9015cc5901deb",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801221,
+          "stop" : 1621999801331,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(已授权)接口",
+        "uid" : "b7306456004a0469",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800007,
+          "stop" : 1621999800047,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(注册)接口",
+        "uid" : "1c93a90c8ebe35fc",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737659,
+          "stop" : 1621999737702,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建类目组接口",
+        "uid" : "2d5465599680ee72",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740106,
+          "stop" : 1621999740106,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询角色接口",
+        "uid" : "50da717f0d728675",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736878,
+          "stop" : 1621999736919,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源详情接口",
+        "uid" : "2b28d32bb3b2ccba",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738259,
+          "stop" : 1621999738296,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Bucket授权审批流程",
+        "uid" : "86b4a97ca93e93f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999770036,
+          "stop" : 1621999784781,
+          "duration" : 14745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "执行记录查看接口",
+        "uid" : "16a99115960a847d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799763,
+          "stop" : 1621999799763,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询公钥接口",
+        "uid" : "64391390d49ebd8b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739820,
+          "stop" : 1621999739859,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增任务接口",
+        "uid" : "c8b2c32fc8600361",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799712,
+          "stop" : 1621999799712,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "指数申请上传附件接口",
+        "uid" : "ef7d2e1ac4da44d4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803333,
+          "stop" : 1621999803407,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部系统查看接口",
+        "uid" : "c1ab7875679dfabd",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801943,
+          "stop" : 1621999801979,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方管理系统",
+        "uid" : "88c21ff52605cd40",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999806443,
+          "stop" : 1621999806443,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chenyun1111'", "'chenyun1111'" ]
+      }, {
+        "name" : "类目停用接口",
+        "uid" : "6b22763f89b14d4e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802684,
+          "stop" : 1621999802719,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询任务接口",
+        "uid" : "25320f9e436b2c6f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799722,
+          "stop" : 1621999799722,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增系统接口",
+        "uid" : "41d1df73eba31753",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800206,
+          "stop" : 1621999800211,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "申请授权上传附件接口",
+        "uid" : "2666c9ec2ddf7f9e",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800707,
+          "stop" : 1621999800786,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic授权审批流程",
+        "uid" : "599a32621dc892e7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999755300,
+          "stop" : 1621999770034,
+          "duration" : 14734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建接入方人员接口",
+        "uid" : "1893f8116dc287ad",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801371,
+          "stop" : 1621999801379,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看密钥详情接口",
+        "uid" : "ed33ee35325d159d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802051,
+          "stop" : 1621999802114,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "上传公钥接口",
+        "uid" : "aabe69bcbeaafaa8",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739697,
+          "stop" : 1621999739761,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic申请",
+        "uid" : "24fe89a1b873d463",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800164,
+          "stop" : 1621999800203,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "指数启用",
+        "uid" : "149cb0fdb44e4d59",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803223,
+          "stop" : 1621999803288,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "API启用接口",
+        "uid" : "dbffb465261a8fea",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800597,
+          "stop" : 1621999800663,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出申请指数接口",
+        "uid" : "2e418b22c2c06d98",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737316,
+          "stop" : 1621999737369,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "添加标准维度接口",
+        "uid" : "51670caed71c819d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802273,
+          "stop" : 1621999802281,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的指数查询（已授权）",
+        "uid" : "c7f9bdfe1d93229b",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737281,
+          "stop" : 1621999737314,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源编辑接口",
+        "uid" : "329bed62e19d2c70",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738298,
+          "stop" : 1621999738367,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部系统接口",
+        "uid" : "83b7893dddae0ae7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736711,
+          "stop" : 1621999736747,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部API查看接口",
+        "uid" : "c2d79d559d615bcc",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801772,
+          "stop" : 1621999801833,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询订阅中数据接口",
+        "uid" : "d372f8441505af91",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621999799662,
+          "stop" : 1621999799692,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "密钥详情接口",
+        "uid" : "5cb3888df8ad15f5",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739550,
+          "stop" : 1621999739583,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用标准维度接口",
+        "uid" : "d99a5999eac8fcd7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802283,
+          "stop" : 1621999802316,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用任务接口",
+        "uid" : "151392437fc5d117",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799742,
+          "stop" : 1621999799742,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建类目组接口",
+        "uid" : "be8b3293a4290f41",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802470,
+          "stop" : 1621999802479,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "维度管理-停用自定义维度",
+        "uid" : "8d003fdbc6951886",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803832,
+          "stop" : 1621999803918,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询任务接口",
+        "uid" : "41033c82c39ba2ac",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621999737616,
+          "stop" : 1621999737638,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看API详情接口",
+        "uid" : "d6cae1d795b86fb0",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800462,
+          "stop" : 1621999800525,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询数据源接口",
+        "uid" : "5d2bef3831e258c2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799820,
+          "stop" : 1621999799820,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建子类目接口",
+        "uid" : "1ccf7f2e0811faf",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802536,
+          "stop" : 1621999802574,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket文件预览接口",
+        "uid" : "47492bca40d69c32",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738846,
+          "stop" : 1621999738846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询运营人员接口",
+        "uid" : "8d3682463f90c73f",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999736322,
+          "stop" : 1621999736541,
+          "duration" : 219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "数据注册接口",
+        "uid" : "1ae24561dea90f17",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999799531,
+          "stop" : 1621999799531,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑bucket接口",
+        "uid" : "5da2e0af3c16a40a",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738818,
+          "stop" : 1621999738818,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_4delmvleimu",
+        "uid" : "16b476cf5c49bb36",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738621,
+          "stop" : 1621999738679,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看bucket申请接口",
+        "uid" : "9c6d264ccc05f6de",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738776,
+          "stop" : 1621999738776,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1addmvleimu",
+        "uid" : "54cf01b34054a6b1",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738508,
+          "stop" : 1621999738513,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用运营人员接口",
+        "uid" : "a159bd1a1dadc7a7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801130,
+          "stop" : 1621999801216,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "密钥停用接口",
+        "uid" : "55c02a2a408ff826",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802116,
+          "stop" : 1621999802176,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用标准维度接口",
+        "uid" : "c41fe6a1a9d27508",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802318,
+          "stop" : 1621999802350,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询已授权数据接口",
+        "uid" : "653e3d5a5938c6f7",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621999799608,
+          "stop" : 1621999799639,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目编辑接口",
+        "uid" : "429a237ec204cdfa",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740301,
+          "stop" : 1621999740301,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看bucket文件信息接口",
+        "uid" : "e36ac701bec5383",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999738803,
+          "stop" : 1621999738803,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出申请指数接口",
+        "uid" : "18d5fc300e80b2d2",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803291,
+          "stop" : 1621999803331,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "指数停用",
+        "uid" : "73bb913f25dafc85",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999803147,
+          "stop" : 1621999803221,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建业务API接口",
+        "uid" : "5b49328e60229c1d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800420,
+          "stop" : 1621999800425,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "指数注册接口",
+        "uid" : "1652c6088289bee4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802799,
+          "stop" : 1621999803063,
+          "duration" : 264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的指数查询（已注册）",
+        "uid" : "72710f0a38facef9",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999737241,
+          "stop" : 1621999737278,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑账号接口",
+        "uid" : "20308ab04af30ff4",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999739390,
+          "stop" : 1621999739506,
+          "duration" : 116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询全部指数标准类目接口",
+        "uid" : "17b48c800d8928fb",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999736855,
+          "stop" : 1621999736855,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑接入方人员接口",
+        "uid" : "bad79f61585fbcdf",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801417,
+          "stop" : 1621999801483,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "mv授权审批流程",
+        "uid" : "55663d32768eda92",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999784783,
+          "stop" : 1621999799530,
+          "duration" : 14747
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_3editmvleimu",
+        "uid" : "6e4db3199ca9929d",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999738549,
+          "stop" : 1621999738618,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic编辑接口",
+        "uid" : "83f99edf64792f14",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999800093,
+          "stop" : 1621999800093,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥启用接口",
+        "uid" : "c8d691de052d1101",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999740016,
+          "stop" : 1621999740104,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "列出API接口",
+        "uid" : "6067abb830fa2cdb",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999800666,
+          "stop" : 1621999800705,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目删除接口",
+        "uid" : "822ccffa6daedb48",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621999740342,
+          "stop" : 1621999740342,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "导出指数目录列表接口",
+        "uid" : "2574f05d9aac90ff",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999801672,
+          "stop" : 1621999801770,
+          "duration" : 98
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "类目详情接口",
+        "uid" : "2e1f841992c69d1a",
+        "parentUid" : "37df0229e03148d6a55d87af63d26034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621999802577,
+          "stop" : 1621999802613,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37df0229e03148d6a55d87af63d26034"
+    }, {
+      "name" : "25156-MainThread",
+      "children" : [ {
+        "name" : "密钥申请授权接口",
+        "uid" : "fa3aa63839482fb3",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778385,
+          "stop" : 1621995778408,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用任务接口",
+        "uid" : "e952ac745f140d03",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621996060039,
+          "stop" : 1621996085098,
+          "duration" : 25059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-文件信息-上传文件",
+        "uid" : "9e9266dba75896d2",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771386,
+          "stop" : 1621995771386,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用运营用户",
+        "uid" : "3b0cbbf064988178",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833344,
+          "stop" : 1621995833398,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试数据源接口",
+        "uid" : "b4c2409499765d65",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995984799,
+          "stop" : 1621996009873,
+          "duration" : 25074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "密钥详情接口",
+        "uid" : "6acf4a4ab8caa879",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778344,
+          "stop" : 1621995778369,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "授权详情",
+        "uid" : "ad04992c9e172d3",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777584,
+          "stop" : 1621995777584,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "运营列表状态查询",
+        "uid" : "6fef89030a54c6be",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833148,
+          "stop" : 1621995833182,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑运营用户",
+        "uid" : "eb695601c68aebf9",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833288,
+          "stop" : 1621995833342,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "系统接入-区块链详情",
+        "uid" : "74795b064181dcf9",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859021,
+          "stop" : 1621995859021,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "数据注册接口",
+        "uid" : "bce38d88e27627ee",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859266,
+          "stop" : 1621995884325,
+          "duration" : 25059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增自定义类目",
+        "uid" : "956cc7dd970f44a2",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778614,
+          "stop" : 1621995778614,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请-详情-基本信息",
+        "uid" : "12817841dbe3b275",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832914,
+          "stop" : 1621995832914,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用类目",
+        "uid" : "56f9e1d8eaa29ca0",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778839,
+          "stop" : 1621995778867,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "单号查询",
+        "uid" : "e621f5009692320d",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777871,
+          "stop" : 1621995777871,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增角色接口",
+        "uid" : "1aec41cdf3400d42",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778021,
+          "stop" : 1621995778021,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "单号查询",
+        "uid" : "c55ba749ad688a15",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771481,
+          "stop" : 1621995771481,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "服务申请-提交",
+        "uid" : "a3c6c0c87e98bb38",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859252,
+          "stop" : 1621995859252,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-详情-区块链",
+        "uid" : "58234ba4fbc7fdf8",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832867,
+          "stop" : 1621995832867,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑数据源接口",
+        "uid" : "9ddaf94a9706eab6",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995959626,
+          "stop" : 1621995984779,
+          "duration" : 25153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-列表查询",
+        "uid" : "679e0a69da59bbde",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832819,
+          "stop" : 1621995832819,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket申请-详情-基本信息",
+        "uid" : "1b77e28a7d888fbf",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771435,
+          "stop" : 1621995771435,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-文件信息-预览",
+        "uid" : "a4a8db529cd4b7d",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771397,
+          "stop" : 1621995771397,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询公钥接口",
+        "uid" : "bf2f30d951aefaa",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778474,
+          "stop" : 1621995778474,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "上传公钥接口",
+        "uid" : "e3faf9ae452e6415",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778430,
+          "stop" : 1621995778455,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方用户启用",
+        "uid" : "5d7ad1ebc3e6f276",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832995,
+          "stop" : 1621995832995,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "系统接入-查询",
+        "uid" : "417b4696304bf639",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859013,
+          "stop" : 1621995859013,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请-上传附件",
+        "uid" : "e3d778aa5ff8b5dd",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832940,
+          "stop" : 1621995832940,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "服务创建成功",
+        "uid" : "62bd3d1e38308770",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859032,
+          "stop" : 1621995859032,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用任务接口",
+        "uid" : "c0da29d88e64ea64",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621996085116,
+          "stop" : 1621996110174,
+          "duration" : 25058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增数据源接口",
+        "uid" : "614f9c7e36a94af3",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995909478,
+          "stop" : 1621995934534,
+          "duration" : 25056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket申请-提交",
+        "uid" : "7cd29e698a893815",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771471,
+          "stop" : 1621995771471,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket申请-上传附件",
+        "uid" : "b8219cc22dfeb699",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771455,
+          "stop" : 1621995771455,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥启用接口",
+        "uid" : "a6950fdd7ec52faa",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778560,
+          "stop" : 1621995778560,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除类目",
+        "uid" : "16055ce28f3f6188",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778888,
+          "stop" : 1621995778915,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-列表code查询",
+        "uid" : "944fc10b733cae84",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771334,
+          "stop" : 1621995771334,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket申请-详情-文件信息",
+        "uid" : "629e5bb543ae661",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771445,
+          "stop" : 1621995771445,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-详情-授权记录",
+        "uid" : "ec5aced7f23ebe18",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832852,
+          "stop" : 1621995832852,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请-列表查询",
+        "uid" : "6cfa11552b342739",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832902,
+          "stop" : 1621995832902,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询密钥接口",
+        "uid" : "1be76d9d1864ef47",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778300,
+          "stop" : 1621995778327,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增账号接口",
+        "uid" : "5fde03223ea63c48",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778171,
+          "stop" : 1621995778171,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥申请授权接口",
+        "uid" : "1aa64b79958b4ff8",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778520,
+          "stop" : 1621995778520,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "topic详情",
+        "uid" : "f21d06407a8917d5",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777739,
+          "stop" : 1621995777739,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-详情-基本信息",
+        "uid" : "8bec44e329c92a45",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832830,
+          "stop" : 1621995832830,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket申请-列表查询",
+        "uid" : "95ac30b7c0d8ecc9",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771424,
+          "stop" : 1621995771424,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-详情",
+        "uid" : "1db1d435b4351267",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859146,
+          "stop" : 1621995859146,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看详情",
+        "uid" : "5b0156a3935d2ba5",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777722,
+          "stop" : 1621995777722,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建接入方账号",
+        "uid" : "2f2709c337015bd0",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832963,
+          "stop" : 1621995832963,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "创建运营账号",
+        "uid" : "ce8b6172f52222ac",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833004,
+          "stop" : 1621995833051,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-文件信息-重命名",
+        "uid" : "976d4622f3c81b87",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771406,
+          "stop" : 1621995771406,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源批量注册",
+        "uid" : "44b73d2b868c07ee",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995802261,
+          "stop" : 1621995832806,
+          "duration" : 30545
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询已授权数据接口",
+        "uid" : "a3bdc1f787302052",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621995909420,
+          "stop" : 1621995909448,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方列表简称查询",
+        "uid" : "164e0a6262ddba1a",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832969,
+          "stop" : 1621995832969,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询任务接口",
+        "uid" : "1353b3794a395a29",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621996034964,
+          "stop" : 1621996060021,
+          "duration" : 25057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源单个注册",
+        "uid" : "495d70e98fe00288",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778935,
+          "stop" : 1621995778935,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取类目ID",
+        "uid" : "c6b83e9e92987a3a",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778630,
+          "stop" : 1621995778659,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑角色接口",
+        "uid" : "2a37d3f6f9691ff8",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778087,
+          "stop" : 1621995778114,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看API详情",
+        "uid" : "d666b9130b7a453f",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777620,
+          "stop" : 1621995777620,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑类目",
+        "uid" : "e6edb46bcd0a85d8",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778729,
+          "stop" : 1621995778753,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-编辑",
+        "uid" : "a800961f0c0e2a40",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859166,
+          "stop" : 1621995859166,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请-提交申请",
+        "uid" : "2e1dce91d29e4880",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832951,
+          "stop" : 1621995832951,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "单号查询",
+        "uid" : "118415a1eadd7ae3",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777783,
+          "stop" : 1621995777783,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "添加子类目",
+        "uid" : "46bd73516322f5df",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778683,
+          "stop" : 1621995778709,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-编辑",
+        "uid" : "e08f9f2e8960cd6a",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771353,
+          "stop" : 1621995771353,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-启用",
+        "uid" : "3dd44efef56d14c5",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859228,
+          "stop" : 1621995859228,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "启用运营用户",
+        "uid" : "e57a014d66e15464",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833400,
+          "stop" : 1621995833482,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部API-查询",
+        "uid" : "6af72dce36a6d00",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995833740,
+          "stop" : 1621995833740,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "授权用户角色",
+        "uid" : "4c7e0f8f460ccfec",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833184,
+          "stop" : 1621995833286,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部api-区块链详情",
+        "uid" : "ff3db33c8b574555",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859002,
+          "stop" : 1621995859002,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "视频源申请-详情-推流记录",
+        "uid" : "dc7d5f3000d374a",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832926,
+          "stop" : 1621995832926,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-编辑",
+        "uid" : "ac57a9b5a1c032c1",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832890,
+          "stop" : 1621995832890,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部指数-查询",
+        "uid" : "57d349227c3d15da",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995833486,
+          "stop" : 1621995833609,
+          "duration" : 123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看附件",
+        "uid" : "b729c2bd7ddf2757",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777602,
+          "stop" : 1621995777602,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "bucket注册",
+        "uid" : "2d19f042c9a1b2fc",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771041,
+          "stop" : 1621995771041,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询角色接口",
+        "uid" : "a9db61aebbd13d84",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778038,
+          "stop" : 1621995778071,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-列表查询",
+        "uid" : "6b48a0a4bc93f7b7",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859136,
+          "stop" : 1621995859136,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方用户停用",
+        "uid" : "b350053ca3749bca",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832986,
+          "stop" : 1621995832986,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询数据源接口",
+        "uid" : "774052459db5ae00",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995934552,
+          "stop" : 1621995959608,
+          "duration" : 25056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部api-详情",
+        "uid" : "9037bb7cee8506dd",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995858994,
+          "stop" : 1621995858994,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "停用类目",
+        "uid" : "8f2ff435fba1f66",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778772,
+          "stop" : 1621995778792,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "topic_附件",
+        "uid" : "4186f350b9380325",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777761,
+          "stop" : 1621995777761,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-文件信息",
+        "uid" : "f15db1b322788476",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771372,
+          "stop" : 1621995771372,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "运营列表用户名查询",
+        "uid" : "14df0b38bd197333",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833081,
+          "stop" : 1621995833115,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除角色接口",
+        "uid" : "710e8bae561a86c2",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778130,
+          "stop" : 1621995778154,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询已注册数据接口",
+        "uid" : "d353c76517bb5522",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995884345,
+          "stop" : 1621995909403,
+          "duration" : 25058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-区块链入链",
+        "uid" : "e9bfaaedc0bdf2e1",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859155,
+          "stop" : 1621995859155,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询账号接口",
+        "uid" : "818878cc5868d636",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778213,
+          "stop" : 1621995778213,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-详情-推流记录",
+        "uid" : "d28a653737793231",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832840,
+          "stop" : 1621995832840,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增任务接口",
+        "uid" : "3d8df398741adebb",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621996009894,
+          "stop" : 1621996034949,
+          "duration" : 25055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "运营列表负责人查询",
+        "uid" : "1b4c73e2c2c6170",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621995833117,
+          "stop" : 1621995833145,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-列表name查询",
+        "uid" : "b7b59afa41464a55",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771344,
+          "stop" : 1621995771344,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "接入方用户编辑",
+        "uid" : "a25caea9a43407f0",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832978,
+          "stop" : 1621995832978,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看附件",
+        "uid" : "675727292f5364e8",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777853,
+          "stop" : 1621995777853,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看详情",
+        "uid" : "2be71256c45cf376",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777837,
+          "stop" : 1621995777837,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看账号详情接口",
+        "uid" : "45fdddda27f36167",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778258,
+          "stop" : 1621995778258,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "文件上传",
+        "uid" : "10e1e5cc5f16c330",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859242,
+          "stop" : 1621995859242,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的视频源-详情-区块详情",
+        "uid" : "3eb6df0e60c58845",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995832879,
+          "stop" : 1621995832879,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "全部指数-区块链详情",
+        "uid" : "49dff172ea51073d",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995833624,
+          "stop" : 1621995833729,
+          "duration" : 105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "编辑账号接口",
+        "uid" : "8ff04db55ccf1a50",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778277,
+          "stop" : 1621995778277,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-文件信息-删除",
+        "uid" : "91e0ee3b14f6aef6",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771415,
+          "stop" : 1621995771415,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "单号查询",
+        "uid" : "397ea495858b6e26",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777643,
+          "stop" : 1621995777643,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "公钥停用接口",
+        "uid" : "3b1d416e5f229e2",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995778538,
+          "stop" : 1621995778538,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看详情",
+        "uid" : "f2deec54a0fb1082",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777938,
+          "stop" : 1621995777938,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查看附件",
+        "uid" : "a75e36d526747f6",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995777960,
+          "stop" : 1621995777960,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-停用",
+        "uid" : "3fc6a42b958aee41",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995859218,
+          "stop" : 1621995859218,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的bucket-详情-基本信息",
+        "uid" : "babac40dcb3ebc28",
+        "parentUid" : "b56b6c9e45900de9e7ce2a845b15746e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1621995771362,
+          "stop" : 1621995771362,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b56b6c9e45900de9e7ce2a845b15746e"
+    }, {
+      "name" : "20617-MainThread",
+      "children" : [ {
+        "name" : "Topic查询(已授权)接口",
+        "uid" : "513fa636b1679c34",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623218435181,
+          "stop" : 1623218435248,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(订阅中)接口",
+        "uid" : "a009d1195cb26ee3",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623218435251,
+          "stop" : 1623218435289,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic查询(注册)接口",
+        "uid" : "d6651646b5626c00",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623218410090,
+          "stop" : 1623218435173,
+          "duration" : 25083
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic上传文件接口",
+        "uid" : "d7d66975776542be",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623218460380,
+          "stop" : 1623218460560,
+          "duration" : 180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic注册接口",
+        "uid" : "f3e4cfd85e5b2390",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623218382757,
+          "stop" : 1623218410006,
+          "duration" : 27249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic编辑接口",
+        "uid" : "9516b5ac1b364af3",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623218435291,
+          "stop" : 1623218460370,
+          "duration" : 25079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Topic申请授权接口",
+        "uid" : "75e05c3b7835efff",
+        "parentUid" : "d18793313f6960c131eddf371ebfbce7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623218460562,
+          "stop" : 1623218460792,
+          "duration" : 230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d18793313f6960c131eddf371ebfbce7"
+    }, {
+      "name" : "8778-MainThread",
+      "children" : [ {
+        "name" : "我的服务-编辑",
+        "uid" : "b43e672686443293",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159205,
+          "stop" : 1619507159205,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "文件上传",
+        "uid" : "44482a716bfd7e75",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159238,
+          "stop" : 1619507159239,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "服务申请-提交",
+        "uid" : "f86dd97c31663867",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159253,
+          "stop" : 1619507159253,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-详情",
+        "uid" : "aa080a00eb5f86ee",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159186,
+          "stop" : 1619507159186,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-停用",
+        "uid" : "c78424a5b4be574c",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159214,
+          "stop" : 1619507159214,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-区块链入链",
+        "uid" : "43af452d151dd462",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159195,
+          "stop" : 1619507159195,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "服务创建成功",
+        "uid" : "6959f10f6324d8c7",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507158728,
+          "stop" : 1619507158728,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-启用",
+        "uid" : "43525b00268d3379",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159223,
+          "stop" : 1619507159223,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "我的服务-列表查询",
+        "uid" : "65ea3becdbc0d778",
+        "parentUid" : "957697bc306be189359a57ee3625af69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1619507159177,
+          "stop" : 1619507159177,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "957697bc306be189359a57ee3625af69"
+    } ],
+    "uid" : "6850678933b5f7bd02671b817f3f2485"
+  } ]
+}

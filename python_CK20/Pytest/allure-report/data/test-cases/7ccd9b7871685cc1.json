@@ -1,0 +1,61 @@
+{
+  "uid": "7ccd9b7871685cc1",
+  "name": "test_with_severity_Critical",
+  "fullName": "test_008_allure_install#test_with_severity_Critical",
+  "historyId": "2d8b31eb6315722ebdca8394ad73b734",
+  "time": {
+    "start": 1630076103169,
+    "stop": 1630076103169,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "99082-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "critical",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "7ccd9b7871685cc1.json",
+  "parameterValues": []
+}

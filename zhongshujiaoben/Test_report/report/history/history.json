@@ -1,0 +1,5646 @@
+{
+  "9214b89de487d0f30d9be60e916b60a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6651646b5626c00",
+      "status" : "broken",
+      "statusDetails" : "TypeError: tuple indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1623218410090,
+        "stop" : 1623218435173,
+        "duration" : 25083
+      }
+    } ]
+  },
+  "a32d4ee0a695993d85fc91277f2e41a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63da47af3ea9749e",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799945,
+        "stop" : 1621999799945,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d5f9c2df19945d2634c670e809139db0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a75e36d526747f6",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777960,
+        "stop" : 1621995777960,
+        "duration" : 0
+      }
+    } ]
+  },
+  "00755335389ed6ae79d24896a24d9f0f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0172257e82458e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736921,
+        "stop" : 1621999736971,
+        "duration" : 50
+      }
+    } ]
+  },
+  "0797b1e939d9dec95f939da1da310f57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "822ccffa6daedb48",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740342,
+        "stop" : 1621999740342,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d7599706ca745586fd22620ccd61b75f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49dff172ea51073d",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995833624,
+        "stop" : 1621995833729,
+        "duration" : 105
+      }
+    } ]
+  },
+  "8d5b9402ff3d91877f385dfe586dfaad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5430522543d6608",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799773,
+        "stop" : 1621999799773,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f2ebf0e445b4af051f73f64cc4861291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5b5b87fa20d5f43",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738789,
+        "stop" : 1621999738789,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b438ae34eac280f62bea74378251c94c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e8dd07b860e57ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999740358,
+        "stop" : 1621999755298,
+        "duration" : 14940
+      }
+    } ]
+  },
+  "d49717e9111629a62de8d9d45fad2c68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1ab7875679dfabd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801943,
+        "stop" : 1621999801979,
+        "duration" : 36
+      }
+    } ]
+  },
+  "68d1b6912603ce94d413c54736012c7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b0cbbf064988178",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833344,
+        "stop" : 1621995833398,
+        "duration" : 54
+      }
+    } ]
+  },
+  "f3076abf805023c019431903d8660203" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15ea3744c0c5dfc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737006,
+        "stop" : 1621999737034,
+        "duration" : 28
+      }
+    } ]
+  },
+  "6b203c664de6b87c73131fb2e6cd0621" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cd488dd9a3eddd2",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nOperation_Magage/test_list.py:257: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200','失败原因是：%s' %result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nOperation_Magage/test_list.py:258: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621999737517,
+        "stop" : 1621999737549,
+        "duration" : 32
+      }
+    } ]
+  },
+  "a471cba621fa98c173f4f517cc7e37ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7b59afa41464a55",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771344,
+        "stop" : 1621995771344,
+        "duration" : 0
+      }
+    } ]
+  },
+  "63187060a2d165c241f97232eec628b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92548a19bd7efde5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800102,
+        "stop" : 1621999800131,
+        "duration" : 29
+      }
+    } ]
+  },
+  "cf156461ec52d22e0a82f4998b49259e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "429a237ec204cdfa",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740301,
+        "stop" : 1621999740301,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7ab4c657bda36c634b6d610a015851cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3338fd32d226d8ef",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999800085,
+        "stop" : 1621999800085,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e0f1b26101db497446e4ac47a8117cf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ff04db55ccf1a50",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995778277,
+        "stop" : 1621995778277,
+        "duration" : 0
+      }
+    } ]
+  },
+  "97566401bb9f77328d1ef44489c5ffef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1477ce8d093a942c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803663,
+        "stop" : 1621999803726,
+        "duration" : 63
+      }
+    } ]
+  },
+  "b385fb8e8171ed11bcc0b60f1e50ef9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e4db3199ca9929d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738549,
+        "stop" : 1621999738618,
+        "duration" : 69
+      }
+    } ]
+  },
+  "6be0e58af0e8e579457c4eca6049de74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c93a90c8ebe35fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737659,
+        "stop" : 1621999737702,
+        "duration" : 43
+      }
+    } ]
+  },
+  "e20e3ff654291e651294e8c638345970" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e1dce91d29e4880",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832951,
+        "stop" : 1621995832951,
+        "duration" : 0
+      }
+    } ]
+  },
+  "327dfd90cbfe96c3f3eceef3cd5539ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7892ca39ab2982ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801486,
+        "stop" : 1621999801549,
+        "duration" : 63
+      }
+    } ]
+  },
+  "a4abba0e4d2771a13aa77fff4d953c08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2be71256c45cf376",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777837,
+        "stop" : 1621995777837,
+        "duration" : 0
+      }
+    } ]
+  },
+  "eb81478436584929346f191fb4860ed5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff3db33c8b574555",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995859002,
+        "stop" : 1621995859002,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f8efd20c20fc0497b28d32c67ecd5dbe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b28d32bb3b2ccba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738259,
+        "stop" : 1621999738296,
+        "duration" : 37
+      }
+    } ]
+  },
+  "da62a7188520d8520d01b7ef94985fa9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e57a014d66e15464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833400,
+        "stop" : 1621995833482,
+        "duration" : 82
+      }
+    } ]
+  },
+  "68ccdefbdcf11542ce813500c9c6c0a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3eb6df0e60c58845",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832879,
+        "stop" : 1621995832879,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b2255699d0e664d0e47e3a83e9b37ef6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149cb0fdb44e4d59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803223,
+        "stop" : 1621999803288,
+        "duration" : 65
+      }
+    } ]
+  },
+  "fe3274a82793d5519e532a47c9561b9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f57b1d769d6ca00a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736973,
+        "stop" : 1621999737004,
+        "duration" : 31
+      }
+    } ]
+  },
+  "3ab5ee9b982550a8fc4fef377d3aea40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb695601c68aebf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833288,
+        "stop" : 1621995833342,
+        "duration" : 54
+      }
+    } ]
+  },
+  "d020c168c7bed2a603a618ed79370fbf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6acf4a4ab8caa879",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995778344,
+        "stop" : 1621995778369,
+        "duration" : 25
+      }
+    } ]
+  },
+  "3fb5f11f9926a0b508c0cd41e42cdee7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f2709c337015bd0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: add_jierufang() missing 1 required positional argument: 'appType'",
+      "time" : {
+        "start" : 1621995832963,
+        "stop" : 1621995832963,
+        "duration" : 0
+      }
+    } ]
+  },
+  "be2d65dc5b21883a215d3ee7f484ca1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "976d4622f3c81b87",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771406,
+        "stop" : 1621995771406,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4a4d2d1289f66b57ca1a0898c38f6c7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "629e5bb543ae661",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771445,
+        "stop" : 1621995771445,
+        "duration" : 0
+      }
+    } ]
+  },
+  "235d4b147d4fec182ef74d40b4c16a5a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27a3ee7431343d36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803409,
+        "stop" : 1621999803579,
+        "duration" : 170
+      }
+    } ]
+  },
+  "9cc058da230618068c3eab84e66d2a07" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41033c82c39ba2ac",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nOperation_Magage/test_list.py:273: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200','失败原因是：%s' %result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nOperation_Magage/test_list.py:274: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621999737616,
+        "stop" : 1621999737638,
+        "duration" : 22
+      }
+    } ]
+  },
+  "df21d43cd0a1981b0516b3f4e7f49aa1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "495d70e98fe00288",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778935,
+        "stop" : 1621995778935,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9eb67630ccabdca025279a2e43489ef6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7db3cb9d73ab564f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802721,
+        "stop" : 1621999802757,
+        "duration" : 36
+      }
+    } ]
+  },
+  "c80f6b6712a77dffb007647d5d20566a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "137ca64187117ad2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800133,
+        "stop" : 1621999800162,
+        "duration" : 29
+      }
+    } ]
+  },
+  "a80dd551649c4b8727c5ae86707c0616" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acff5c388eee54bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736599,
+        "stop" : 1621999736654,
+        "duration" : 55
+      }
+    } ]
+  },
+  "fb363ee0aeffc06e651dd09f69a33ff2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18d5fc300e80b2d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803291,
+        "stop" : 1621999803331,
+        "duration" : 40
+      }
+    } ]
+  },
+  "cfa1bb42a17c2594f3f96124dbbdd2ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d1f2ea7e0964f02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801616,
+        "stop" : 1621999801670,
+        "duration" : 54
+      }
+    } ]
+  },
+  "08dceba5700df774d87e68eb1f582b47" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9037bb7cee8506dd",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995858994,
+        "stop" : 1621995858994,
+        "duration" : 0
+      }
+    } ]
+  },
+  "836b4fd26204c53ac5f806607d853220" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e621f5009692320d",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777871,
+        "stop" : 1621995777871,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e9bc32fb62642e8d6a0afde1f91ec84e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bce38d88e27627ee",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995859266,
+        "stop" : 1621995884325,
+        "duration" : 25059
+      }
+    } ]
+  },
+  "c18ed72d924aeb57594d0e85fef4466d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75e05c3b7835efff",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1623218460562,
+        "stop" : 1623218460792,
+        "duration" : 230
+      }
+    } ]
+  },
+  "89dbcd29826050527652a4669119472c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d353c76517bb5522",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995884345,
+        "stop" : 1621995909403,
+        "duration" : 25058
+      }
+    } ]
+  },
+  "895d4553348487e09bf5715462b69b0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1aa64b79958b4ff8",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778520,
+        "stop" : 1621995778520,
+        "duration" : 0
+      }
+    } ]
+  },
+  "363d6d49f2142ed5ccfd053d4d4df7b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50da717f0d728675",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736878,
+        "stop" : 1621999736919,
+        "duration" : 41
+      }
+    } ]
+  },
+  "77ce5f4096a8ba5026ce6254785fff4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "601987a5937bcb7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802352,
+        "stop" : 1621999802393,
+        "duration" : 41
+      }
+    } ]
+  },
+  "0702d1d5699684b8930d5975ce384205" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54cf01b34054a6b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738508,
+        "stop" : 1621999738513,
+        "duration" : 5
+      }
+    } ]
+  },
+  "f2540ec443894eb5456ebe0792444c44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3565e64e7a813316",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740329,
+        "stop" : 1621999740329,
+        "duration" : 0
+      }
+    } ]
+  },
+  "71cd71279cf592140fa4d697e7d8b4cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b4c73e2c2c6170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833117,
+        "stop" : 1621995833145,
+        "duration" : 28
+      }
+    } ]
+  },
+  "a91d3550afde648652d33f93ab69b42b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b77e28a7d888fbf",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771435,
+        "stop" : 1621995771435,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3667837c58a14c814345176a471348d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d28a653737793231",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832840,
+        "stop" : 1621995832840,
+        "duration" : 0
+      }
+    } ]
+  },
+  "330c1e5728c85e6b59ac10fffb7e0559" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "563a948b9fbf8696",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803920,
+        "stop" : 1621999804041,
+        "duration" : 121
+      }
+    } ]
+  },
+  "b7bec47e8287a2cf64bedcc889416079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16b476cf5c49bb36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738621,
+        "stop" : 1621999738679,
+        "duration" : 58
+      }
+    } ]
+  },
+  "296c0f125f6ff4b71fbbbfe78840182f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec5aced7f23ebe18",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832852,
+        "stop" : 1621995832852,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e625aebd8b6d02ec97ae01cc34b623c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7648cd7d42cc0c3b",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'cm' is not defined",
+      "time" : {
+        "start" : 1621999736843,
+        "stop" : 1621999736844,
+        "duration" : 1
+      }
+    } ]
+  },
+  "226cf54537710598cdf73dc9312de690" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e708ffd9eeb0e9ae",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799598,
+        "stop" : 1621999799598,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7cdc5c277159219b1a53ebe312aa540f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f2ff435fba1f66",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778772,
+        "stop" : 1621995778792,
+        "duration" : 20
+      }
+    } ]
+  },
+  "3f97bde44e970b7012e38ee961d12b12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2666c9ec2ddf7f9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800707,
+        "stop" : 1621999800786,
+        "duration" : 79
+      }
+    } ]
+  },
+  "1949247135b35a0173305da998680a6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3faf9ae452e6415",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778430,
+        "stop" : 1621995778455,
+        "duration" : 25
+      }
+    } ]
+  },
+  "f265ca03790376e8214f74237683fdec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e36ac701bec5383",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738803,
+        "stop" : 1621999738803,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9c9c3e00f684a006c67b01a9d6e1aeaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7e063cf3e13ff63",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740235,
+        "stop" : 1621999740235,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fe5bd936c69ca87a4ce6ebc834f00458" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "440f98ed9866887a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999804074,
+        "stop" : 1621999804101,
+        "duration" : 27
+      }
+    } ]
+  },
+  "987f4a053bb631d119ee7f6c31f4061b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "836f5f20a5f44c35",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Operation_Magage/element/element_yaml/ope_login.yaml'",
+      "time" : {
+        "start" : 1621999806425,
+        "stop" : 1621999806426,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5e70863003e1205cf51ebbaeb09b3154" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16a99115960a847d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799763,
+        "stop" : 1621999799763,
+        "duration" : 0
+      }
+    } ]
+  },
+  "88920b25134d637b95738fd91c9fc4b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6067abb830fa2cdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800666,
+        "stop" : 1621999800705,
+        "duration" : 39
+      }
+    } ]
+  },
+  "cf308ce89e37f890bfceb22d01af8097" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b03f8b65bd077db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739585,
+        "stop" : 1621999739695,
+        "duration" : 110
+      }
+    } ]
+  },
+  "79edcb02b0f9a697b5bfad4c1c1523f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a37d3f6f9691ff8",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778087,
+        "stop" : 1621995778114,
+        "duration" : 27
+      }
+    } ]
+  },
+  "bf947ed011c998bcef92e4290096061d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d8df398741adebb",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621996009894,
+        "stop" : 1621996034949,
+        "duration" : 25055
+      }
+    } ]
+  },
+  "ae736a1f016353cfae49f8e1fcf630b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6af72dce36a6d00",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995833740,
+        "stop" : 1621995833740,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4fe23aaefe9ff6fd0ae832552557a7ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2384a40f2fff3e90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739280,
+        "stop" : 1621999739287,
+        "duration" : 7
+      }
+    } ]
+  },
+  "6c5f9ea4d4f68920ed494cb445a24121" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45843f99d6884cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800789,
+        "stop" : 1621999800952,
+        "duration" : 163
+      }
+    } ]
+  },
+  "ab611da3ac624d04e2d46f4f36456d56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83f99edf64792f14",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999800093,
+        "stop" : 1621999800093,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc0bf74c81c2701556f0772cef7c06a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c55ba749ad688a15",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771481,
+        "stop" : 1621995771481,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c48b01d69552cf13a6e30595d3176beb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1be76d9d1864ef47",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995778300,
+        "stop" : 1621995778327,
+        "duration" : 27
+      }
+    } ]
+  },
+  "fb415df0a7e2647013659fba0901a9e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7d66975776542be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623218460380,
+        "stop" : 1623218460560,
+        "duration" : 180
+      }
+    } ]
+  },
+  "4754a2541dd9808c6d21f6f97335406f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2e5138acd4c2438",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799588,
+        "stop" : 1621999799588,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2198f84dfc5e9d8b8ad9d2cb1eb32b5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ae24561dea90f17",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799531,
+        "stop" : 1621999799531,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9213315f372d6cb366ada35680cc5b18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83b7893dddae0ae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736711,
+        "stop" : 1621999736747,
+        "duration" : 36
+      }
+    } ]
+  },
+  "cbec8b1e9ff0d653290e832a00eb534d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6950fdd7ec52faa",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778560,
+        "stop" : 1621995778560,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9e4733788ce0227633a6cedfce3dac6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95ac30b7c0d8ecc9",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771424,
+        "stop" : 1621995771424,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2fb91b8c8ce2dbf532c4045f1349f89a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80dc73cac2e4cd57",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Access_Manage/element/element_yaml/acc_login.yaml'",
+      "time" : {
+        "start" : 1621999806463,
+        "stop" : 1621999806463,
+        "duration" : 0
+      }
+    } ]
+  },
+  "81433cb54f7945e02c665ca69eea1a51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5a54ae1e26bc10d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799753,
+        "stop" : 1621999799753,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4dd20273d00dc1e319dceb6504ecccaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d666b9130b7a453f",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777620,
+        "stop" : 1621995777620,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d83634d257bf719aed38b79e0e17eaf6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1893f8116dc287ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801371,
+        "stop" : 1621999801379,
+        "duration" : 8
+      }
+    } ]
+  },
+  "9d5e2cbd6b80c6eee9b228a90c47fd7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a800961f0c0e2a40",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859166,
+        "stop" : 1621995859166,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ee2b58982064a70f009f0b40da5c7895" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be8b3293a4290f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802470,
+        "stop" : 1621999802479,
+        "duration" : 9
+      }
+    } ]
+  },
+  "b48670138754a3730e80fe2b9260bc60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d7ad1ebc3e6f276",
+      "status" : "broken",
+      "statusDetails" : "TypeError: add_jierufang() missing 1 required positional argument: 'appType'",
+      "time" : {
+        "start" : 1621995832995,
+        "stop" : 1621995832995,
+        "duration" : 0
+      }
+    } ]
+  },
+  "04881c980a2008f37e0429395baf89c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1aec41cdf3400d42",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995778021,
+        "stop" : 1621995778021,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6603b4cdb696ed34a10b064541a9f2e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86b4a97ca93e93f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999770036,
+        "stop" : 1621999784781,
+        "duration" : 14745
+      }
+    } ]
+  },
+  "eeb23ce1da3e55dab1e52e23b6daed3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f436918f0f6c861e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803107,
+        "stop" : 1621999803144,
+        "duration" : 37
+      }
+    } ]
+  },
+  "c4915dc16f1a45b24b25feb6d56a51c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2574f05d9aac90ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801672,
+        "stop" : 1621999801770,
+        "duration" : 98
+      }
+    } ]
+  },
+  "5108e3e893ac95a5ab4c1c396afd9eb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88c21ff52605cd40",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Access_Manage/element/element_yaml/acc_login.yaml'",
+      "time" : {
+        "start" : 1621999806443,
+        "stop" : 1621999806443,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3e935a5be7fe3681012888109953bcb3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d08498a6bd71367",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800427,
+        "stop" : 1621999800460,
+        "duration" : 33
+      }
+    } ]
+  },
+  "f1e764c7217947e831d18513abde7657" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ceb10d07359a2c0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739043,
+        "stop" : 1621999739128,
+        "duration" : 85
+      }
+    } ]
+  },
+  "95d64550332d13515cfa9c66b479df05" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aabe69bcbeaafaa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739697,
+        "stop" : 1621999739761,
+        "duration" : 64
+      }
+    } ]
+  },
+  "7e0038aa7ebc149d8629bcf81308f8b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6b83e9e92987a3a",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778630,
+        "stop" : 1621995778659,
+        "duration" : 29
+      }
+    } ]
+  },
+  "a778d767836636891dd57d78464d83a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a60b185d1a69e316",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800955,
+        "stop" : 1621999800988,
+        "duration" : 33
+      }
+    } ]
+  },
+  "b63b10e539d38769db47c1176f25b4ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9db61aebbd13d84",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995778038,
+        "stop" : 1621995778071,
+        "duration" : 33
+      }
+    } ]
+  },
+  "b1c64d3ec207efd0b19e5c965318244e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d3682463f90c73f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736322,
+        "stop" : 1621999736541,
+        "duration" : 219
+      }
+    } ]
+  },
+  "d66ecf6a6e12dfb7c645179c53d55434" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f15db1b322788476",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771372,
+        "stop" : 1621995771372,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b1b143066dfab0b8b7dcc0b8934e74cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44b73d2b868c07ee",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995802261,
+        "stop" : 1621995832806,
+        "duration" : 30545
+      }
+    } ]
+  },
+  "b5814aa23f24faecf260e0c4af6b361b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d19f042c9a1b2fc",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771041,
+        "stop" : 1621995771041,
+        "duration" : 0
+      }
+    } ]
+  },
+  "38c755ee799ad823fe6a8e9194fff0ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a009d1195cb26ee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623218435251,
+        "stop" : 1623218435289,
+        "duration" : 38
+      }
+    } ]
+  },
+  "2fd353e7f64365d62adbd0e55c2ca781" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9db189b3671659e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737158,
+        "stop" : 1621999737198,
+        "duration" : 40
+      }
+    } ]
+  },
+  "867d17c86b2579acaef5df34d3bae9b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24fe89a1b873d463",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800164,
+        "stop" : 1621999800203,
+        "duration" : 39
+      }
+    } ]
+  },
+  "82d6f79157022b47447fda4cd2d6d25c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f9015cc5901deb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801221,
+        "stop" : 1621999801331,
+        "duration" : 110
+      }
+    } ]
+  },
+  "945b0e886c3a701013b68f876b514747" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdaafd6057db213",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739958,
+        "stop" : 1621999740014,
+        "duration" : 56
+      }
+    } ]
+  },
+  "bdbd2866eba62c6fa92ad8589e7a24dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e30ca96e8e66713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801552,
+        "stop" : 1621999801613,
+        "duration" : 61
+      }
+    } ]
+  },
+  "b7deafc2329b7a941cbcd9b72a293f95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "675727292f5364e8",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777853,
+        "stop" : 1621995777853,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f18450d9bc6fd46cd84757958ec95f25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25320f9e436b2c6f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799722,
+        "stop" : 1621999799722,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a8d743eb04123c34253d4e42654cd45a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b22763f89b14d4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802684,
+        "stop" : 1621999802719,
+        "duration" : 35
+      }
+    } ]
+  },
+  "b0f504d5f7291b17d2e78cd00255e9dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6544f69832d85d2d",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740248,
+        "stop" : 1621999740248,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4ca2cf5aa3ec6981d819f98a8ac5885a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57649d9bd68872ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737439,
+        "stop" : 1621999737475,
+        "duration" : 36
+      }
+    } ]
+  },
+  "663a1bb31794f308a35d619d88bc791b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93e7dde13cca7886",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803582,
+        "stop" : 1621999803617,
+        "duration" : 35
+      }
+    } ]
+  },
+  "0b1947edca9bd408d6e54f13ff87a9d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a5acd94ef9fcc11",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621999799914,
+        "stop" : 1621999799933,
+        "duration" : 19
+      }
+    } ]
+  },
+  "1ac060f3cdbe693888ae51f264cc485f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9aa8f2c76b7f08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737407,
+        "stop" : 1621999737437,
+        "duration" : 30
+      }
+    } ]
+  },
+  "adf1ae4e45ea544de4bdfc8f8b426231" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ae4d2be69bbda32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737745,
+        "stop" : 1621999737785,
+        "duration" : 40
+      }
+    } ]
+  },
+  "34bd1040a5fd8fb05e3adde471fbbe7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fc6a42b958aee41",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859218,
+        "stop" : 1621995859218,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f00dbb7fec2c6016a392716f5a0897d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ca8dc5be7ccbb0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803619,
+        "stop" : 1621999803661,
+        "duration" : 42
+      }
+    } ]
+  },
+  "b58ef7107d5076fd45e9ce6306dacb45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7cd29e698a893815",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771471,
+        "stop" : 1621995771471,
+        "duration" : 0
+      }
+    } ]
+  },
+  "32ae7d3485e06eca902c9051e74c3aac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "417b4696304bf639",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995859013,
+        "stop" : 1621995859013,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bb62604efbf221a7966b3de68b0623f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3c6c0c87e98bb38",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859252,
+        "stop" : 1621995859252,
+        "duration" : 0
+      }
+    } ]
+  },
+  "371fb82685ee2a0f2e63d4dd0c4964f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bec44e329c92a45",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832830,
+        "stop" : 1621995832830,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5f69c5ed7776860608edc1a86b8dc241" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "679e0a69da59bbde",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832819,
+        "stop" : 1621995832819,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a7381487ae71fcadc857c7b200686812" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9ad469953994bda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800244,
+        "stop" : 1621999800303,
+        "duration" : 59
+      }
+    } ]
+  },
+  "3859c1e7254288b1c7bafad3e0584706" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56e27e754a4d301e",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738833,
+        "stop" : 1621999738833,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0ae608c03dea115f374fb0d968acdb20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57d349227c3d15da",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995833486,
+        "stop" : 1621995833609,
+        "duration" : 123
+      }
+    } ]
+  },
+  "aec0a91ae5280f6b2ba4542a3d7437a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f20f931550beced5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800527,
+        "stop" : 1621999800595,
+        "duration" : 68
+      }
+    } ]
+  },
+  "f1f672573157cf6f0ceae6af72eae1a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf2f30d951aefaa",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778474,
+        "stop" : 1621995778474,
+        "duration" : 0
+      }
+    } ]
+  },
+  "43f19a4ccd0ba713a3211b201a02ab63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14df0b38bd197333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833081,
+        "stop" : 1621995833115,
+        "duration" : 34
+      }
+    } ]
+  },
+  "9131e056ea5a82b4843a8d5fc59fc95c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb0bb575d31e8884",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801381,
+        "stop" : 1621999801415,
+        "duration" : 34
+      }
+    } ]
+  },
+  "acd82209071e64d424102200fcab8840" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53aff97ca9bb8634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739155,
+        "stop" : 1621999739217,
+        "duration" : 62
+      }
+    } ]
+  },
+  "5251a03578004168d97d193629116cde" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f8d4c291b0ad025",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Access_Manage/element/element_yaml/acc_login.yaml'",
+      "time" : {
+        "start" : 1621999806454,
+        "stop" : 1621999806454,
+        "duration" : 0
+      }
+    } ]
+  },
+  "485542a003da456f0544598a85dd246c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "118415a1eadd7ae3",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777783,
+        "stop" : 1621995777783,
+        "duration" : 0
+      }
+    } ]
+  },
+  "21142aee380688da7b5824a35c4f8406" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6f7b3cd2107c70f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736805,
+        "stop" : 1621999736841,
+        "duration" : 36
+      }
+    } ]
+  },
+  "446d14d17ff2d9caabaf6a0e993ba8c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "192a19d43a0f109e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999804045,
+        "stop" : 1621999804069,
+        "duration" : 24
+      }
+    } ]
+  },
+  "14556f2e5d9e6dff7c56d84ce8a37b56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc7d5f3000d374a",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832926,
+        "stop" : 1621995832926,
+        "duration" : 0
+      }
+    } ]
+  },
+  "47492b903d9b46dd3e1d5af590776ee8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41d1df73eba31753",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800206,
+        "stop" : 1621999800211,
+        "duration" : 5
+      }
+    } ]
+  },
+  "9d4d5be89d0610996a4c25e32dab692a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74795b064181dcf9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995859021,
+        "stop" : 1621995859021,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8591d92b1d856b0e0639c82f04fec42a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62bd3d1e38308770",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859032,
+        "stop" : 1621995859032,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c757fbf040c58c8ed013c9b9e0b392e0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d372f8441505af91",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nTest_Case/Test_APIcase/test_shujvxietong.py:128: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200', '失败原因是：%s' % result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nTest_Case/Test_APIcase/test_shujvxietong.py:129: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621999799662,
+        "stop" : 1621999799692,
+        "duration" : 30
+      }
+    } ]
+  },
+  "111f5a4d0f3cd56bafca552ecb6d6287" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d2bef3831e258c2",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799820,
+        "stop" : 1621999799820,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dac62ea1ae9ee0b72e4778ed7f768505" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7f9bdfe1d93229b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737281,
+        "stop" : 1621999737314,
+        "duration" : 33
+      }
+    } ]
+  },
+  "abb09fcd63a5739c090d6df7b7da7114" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f16cf8b8b62b621f",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799832,
+        "stop" : 1621999799832,
+        "duration" : 0
+      }
+    } ]
+  },
+  "240c3cb771b81c563148e1e93ec10c26" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51670caed71c819d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802273,
+        "stop" : 1621999802281,
+        "duration" : 8
+      }
+    } ]
+  },
+  "d51f087c478b1b0bb1aa64a9f59f8925" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "944fc10b733cae84",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771334,
+        "stop" : 1621995771334,
+        "duration" : 0
+      }
+    } ]
+  },
+  "df08e73ceaa79f1d0cb532dfddd9c813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b350053ca3749bca",
+      "status" : "broken",
+      "statusDetails" : "TypeError: add_jierufang() missing 1 required positional argument: 'appType'",
+      "time" : {
+        "start" : 1621995832986,
+        "stop" : 1621995832986,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e8bbcf457073d2b2f5526759be237671" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fef89030a54c6be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833148,
+        "stop" : 1621995833182,
+        "duration" : 34
+      }
+    } ]
+  },
+  "f1f47c0e69ff782b4c202c7f7fe3d88f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20308ab04af30ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739390,
+        "stop" : 1621999739506,
+        "duration" : 116
+      }
+    } ]
+  },
+  "efd6671828e718460a39e3e3c19e53c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e9266dba75896d2",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771386,
+        "stop" : 1621995771386,
+        "duration" : 0
+      }
+    } ]
+  },
+  "280b65f5c51986c464f5c0890d3f828a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d5465599680ee72",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740106,
+        "stop" : 1621999740106,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9f2aadfe6452fb758295b3975a856126" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "513fa636b1679c34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623218435181,
+        "stop" : 1623218435248,
+        "duration" : 67
+      }
+    } ]
+  },
+  "75a0abb2e1749b5b4e3edf0c974b370f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10e1e5cc5f16c330",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'",
+      "time" : {
+        "start" : 1621995859242,
+        "stop" : 1621995859242,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e199a7aa190332d51faef34eb863af31" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "151392437fc5d117",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799742,
+        "stop" : 1621999799742,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c2213ce785072f52f55cd4303fe9271b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b419f221f136dcc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800991,
+        "stop" : 1621999801044,
+        "duration" : 53
+      }
+    } ]
+  },
+  "9edfd80a1c4d133b4100faac9ab16629" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ccf7f2e0811faf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802536,
+        "stop" : 1621999802574,
+        "duration" : 38
+      }
+    } ]
+  },
+  "0b50fd16326d52b1d0dd18281f62da96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91e0ee3b14f6aef6",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771415,
+        "stop" : 1621995771415,
+        "duration" : 0
+      }
+    } ]
+  },
+  "62766bdffab5eacea25975beccca140e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7306456004a0469",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800007,
+        "stop" : 1621999800047,
+        "duration" : 40
+      }
+    } ]
+  },
+  "7165e82b0ae745b22a86cf471106c91c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ddaf94a9706eab6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995959626,
+        "stop" : 1621995984779,
+        "duration" : 25153
+      }
+    } ]
+  },
+  "f75b5e999894f75e39e319830a837977" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12817841dbe3b275",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832914,
+        "stop" : 1621995832914,
+        "duration" : 0
+      }
+    } ]
+  },
+  "76c2d89b4ad7c60585191a84de4c3f3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "710e8bae561a86c2",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778130,
+        "stop" : 1621995778154,
+        "duration" : 24
+      }
+    } ]
+  },
+  "73aebb1b9b710daa80eb13a2f1d994db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3dd44efef56d14c5",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859228,
+        "stop" : 1621995859228,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c25e8786f549ef66a50e25778e8861d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "818878cc5868d636",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995778213,
+        "stop" : 1621995778213,
+        "duration" : 0
+      }
+    } ]
+  },
+  "da1f788408000223481b83028c0b5e80" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8a877f5d6f1b908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801835,
+        "stop" : 1621999801940,
+        "duration" : 105
+      }
+    } ]
+  },
+  "9c39f77b8fbc9f0de6d4197177e1f01e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52019f8b91874da8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738004,
+        "stop" : 1621999738010,
+        "duration" : 6
+      }
+    } ]
+  },
+  "83f9f62a6bc2cb737c1055490fdd54bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae0e6918e264c2b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800212,
+        "stop" : 1621999800242,
+        "duration" : 30
+      }
+    } ]
+  },
+  "2f34190327770eccf0f28aa84ce3a02e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3e4cfd85e5b2390",
+      "status" : "broken",
+      "statusDetails" : "TypeError: tuple indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1623218382757,
+        "stop" : 1623218410006,
+        "duration" : 27249
+      }
+    } ]
+  },
+  "e3a1ff1240775e972266f155db840790" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0da29d88e64ea64",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621996085116,
+        "stop" : 1621996110174,
+        "duration" : 25058
+      }
+    } ]
+  },
+  "ca515504a047cdebd8d50891252eb1bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "956cc7dd970f44a2",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'code'",
+      "time" : {
+        "start" : 1621995778614,
+        "stop" : 1621995778614,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5fa648a75c0f872b35da567ba733c724" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "764a29955052c618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737477,
+        "stop" : 1621999737514,
+        "duration" : 37
+      }
+    } ]
+  },
+  "48c3320f557a4b8d1df13df75344500c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b7eb6f4e2d9a50c",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'cm' is not defined",
+      "time" : {
+        "start" : 1621999736866,
+        "stop" : 1621999736866,
+        "duration" : 0
+      }
+    } ]
+  },
+  "23cac71f5abd1250849cd596582e340e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e99e1f50d47c3fb4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799732,
+        "stop" : 1621999799732,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9440919f13b67cbeca1cb01b90160730" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6edb46bcd0a85d8",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778729,
+        "stop" : 1621995778753,
+        "duration" : 24
+      }
+    } ]
+  },
+  "afdf7115380dee763191353dc94fd952" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "763c7a096aab9c8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801046,
+        "stop" : 1621999801128,
+        "duration" : 82
+      }
+    } ]
+  },
+  "d7c7b4e7332109cd368a488cd497dee5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f696e5bf9fe992a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738231,
+        "stop" : 1621999738256,
+        "duration" : 25
+      }
+    } ]
+  },
+  "e311da3dee4c702a4d3ad3d3b525f18c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2bee6cefcdb622d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737704,
+        "stop" : 1621999737743,
+        "duration" : 39
+      }
+    } ]
+  },
+  "de27a6fb87c02e6137795a0865999e24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c6d264ccc05f6de",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738776,
+        "stop" : 1621999738776,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5a85e96882afe115c0ed10f7f6812cc7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cb3888df8ad15f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739550,
+        "stop" : 1621999739583,
+        "duration" : 33
+      }
+    } ]
+  },
+  "05bcd5b4b66c80954ebb4725d0043352" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5da2e0af3c16a40a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738818,
+        "stop" : 1621999738818,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1f5aa06c7890e23da00968957010917d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a459a53bc832d4a3",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738871,
+        "stop" : 1621999738871,
+        "duration" : 0
+      }
+    } ]
+  },
+  "179243ff7aa2b2f6a44bf504a1d82159" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed33ee35325d159d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802051,
+        "stop" : 1621999802114,
+        "duration" : 63
+      }
+    } ]
+  },
+  "47583ecf36981b50105bba1258dea1c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73bb913f25dafc85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803147,
+        "stop" : 1621999803221,
+        "duration" : 74
+      }
+    } ]
+  },
+  "e8ef1cca9f5f7f3abd807a291d6eafb0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d1339c52114246b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739321,
+        "stop" : 1621999739388,
+        "duration" : 67
+      }
+    } ]
+  },
+  "00b2b27063423833f684944a904a768b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "614f9c7e36a94af3",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995909478,
+        "stop" : 1621995934534,
+        "duration" : 25056
+      }
+    } ]
+  },
+  "16d0dd883e8855d7c834082dcbece8b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4186f350b9380325",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777761,
+        "stop" : 1621995777761,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ee3bff9105ac6ba24e80db7e9e6afe20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9e6407bbd58f753",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738370,
+        "stop" : 1621999738405,
+        "duration" : 35
+      }
+    } ]
+  },
+  "92390655d9a80cebcd42af65b57a2504" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16055ce28f3f6188",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778888,
+        "stop" : 1621995778915,
+        "duration" : 27
+      }
+    } ]
+  },
+  "9f837a6f5743411f53847d5cf60d9b28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a25caea9a43407f0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: add_jierufang() missing 1 required positional argument: 'appType'",
+      "time" : {
+        "start" : 1621995832978,
+        "stop" : 1621995832978,
+        "duration" : 0
+      }
+    } ]
+  },
+  "df8cd21047bc01a8259c718e44d04fe9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64391390d49ebd8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739820,
+        "stop" : 1621999739859,
+        "duration" : 39
+      }
+    } ]
+  },
+  "dd2988b3625189540caaeef046be3545" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "343a08cafd163625",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799843,
+        "stop" : 1621999799843,
+        "duration" : 0
+      }
+    } ]
+  },
+  "59b8ca4e26873771d52d394b2b91c2ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "774052459db5ae00",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995934552,
+        "stop" : 1621995959608,
+        "duration" : 25056
+      }
+    } ]
+  },
+  "62d496fa88117ab01653d488fd1721e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1d51440f9b169dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737036,
+        "stop" : 1621999737066,
+        "duration" : 30
+      }
+    } ]
+  },
+  "38aaaa8afb1f23afb1cf56bfd6c3460b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "310ed179b436cd20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802481,
+        "stop" : 1621999802534,
+        "duration" : 53
+      }
+    } ]
+  },
+  "ad788d686f64c39daa1df01e682dd10a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1deeade485f55b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739509,
+        "stop" : 1621999739547,
+        "duration" : 38
+      }
+    } ]
+  },
+  "4aaffd721976ac285df38fa7c405403f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ddd4b84aa5e354d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800366,
+        "stop" : 1621999800418,
+        "duration" : 52
+      }
+    } ]
+  },
+  "670544b878bf42e339641caf3beca26e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c110d0fd2195856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802178,
+        "stop" : 1621999802235,
+        "duration" : 57
+      }
+    } ]
+  },
+  "5e061e824aebedda45713debbbd5c38d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbea99f739a05f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737371,
+        "stop" : 1621999737404,
+        "duration" : 33
+      }
+    } ]
+  },
+  "0de95a9c413b59ab878e1331e025acf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac57a9b5a1c032c1",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832890,
+        "stop" : 1621995832890,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9dcfb644dccbc0517e7f7d62c50b2a8f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96f22f81bbeda857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999799855,
+        "stop" : 1621999799912,
+        "duration" : 57
+      }
+    } ]
+  },
+  "95e2ef5e649102d2e025f7bfd4a6d480" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1652c6088289bee4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802799,
+        "stop" : 1621999803063,
+        "duration" : 264
+      }
+    } ]
+  },
+  "34a476d43943a53c74a4492d5b0871a3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f34149aef1b472b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800049,
+        "stop" : 1621999800083,
+        "duration" : 34
+      }
+    } ]
+  },
+  "1a9ed1c9cbf41deedb0b5340c7c4a6b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd0105eb41ff706d",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799998,
+        "stop" : 1621999799998,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e11f9399173e1598943e7e1ced37a621" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e08f9f2e8960cd6a",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771353,
+        "stop" : 1621995771353,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8c2b8964e37c79398c7963492bb2ef3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b49328e60229c1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800420,
+        "stop" : 1621999800425,
+        "duration" : 5
+      }
+    } ]
+  },
+  "d3ba6be07b4dea9559c45abfcdeee9c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d706f6fdc25b474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737201,
+        "stop" : 1621999737239,
+        "duration" : 38
+      }
+    } ]
+  },
+  "e3c4b046de5b9b5eededb90e9a9b11bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c60f814db27e625",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738764,
+        "stop" : 1621999738764,
+        "duration" : 0
+      }
+    } ]
+  },
+  "014b179c2e3fb2f05fecd646f8c0bade" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17b48c800d8928fb",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'cm' is not defined",
+      "time" : {
+        "start" : 1621999736855,
+        "stop" : 1621999736855,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ad9e89f8441888937838f2bc8b3ba906" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d99a5999eac8fcd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802283,
+        "stop" : 1621999802316,
+        "duration" : 33
+      }
+    } ]
+  },
+  "7d9e66257ef2ca66edfcc62296405640" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "164e0a6262ddba1a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: add_jierufang() missing 1 required positional argument: 'appType'",
+      "time" : {
+        "start" : 1621995832969,
+        "stop" : 1621995832969,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a9380afc686d4d2d81806a31f718f97e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cab81e8e8d2ee8f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736546,
+        "stop" : 1621999736595,
+        "duration" : 49
+      }
+    } ]
+  },
+  "c6a96ad52b14da1c7ead9ecad08e47e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbffb465261a8fea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800597,
+        "stop" : 1621999800663,
+        "duration" : 66
+      }
+    } ]
+  },
+  "095cc52cf5579c859cacb4ca859c2180" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13ba035771654ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737111,
+        "stop" : 1621999737156,
+        "duration" : 45
+      }
+    } ]
+  },
+  "020276fc1c4465584547ea07d2d6f0b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2b8bd2b6d820672",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739862,
+        "stop" : 1621999739956,
+        "duration" : 94
+      }
+    } ]
+  },
+  "27313e60ac43783fad2d021ad8247291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2deec54a0fb1082",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777938,
+        "stop" : 1621995777938,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cbd04d22d15f98f3e74172592cb5ce20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e952ac745f140d03",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621996060039,
+        "stop" : 1621996085098,
+        "duration" : 25059
+      }
+    } ]
+  },
+  "b35906d0c3043d545872a4b0c2397b90" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc386a4049704ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738013,
+        "stop" : 1621999738123,
+        "duration" : 110
+      }
+    } ]
+  },
+  "89587a23bddd0ae9984c13176dec5794" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad04992c9e172d3",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777584,
+        "stop" : 1621995777584,
+        "duration" : 0
+      }
+    } ]
+  },
+  "70889b26578228f706d32d0b8be87023" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8d691de052d1101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999740016,
+        "stop" : 1621999740104,
+        "duration" : 88
+      }
+    } ]
+  },
+  "73e4d1db585b3f95d6be0742ad0d6ab9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2d79d559d615bcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801772,
+        "stop" : 1621999801833,
+        "duration" : 61
+      }
+    } ]
+  },
+  "31be8f86a88e224ddda0378607621aaf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e9bfaaedc0bdf2e1",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859155,
+        "stop" : 1621995859155,
+        "duration" : 0
+      }
+    } ]
+  },
+  "31031ec497d2af6c9c26b315e15b7699" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2861cf1d458a7ab",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Operation_Magage/element/element_yaml/ope_login.yaml'",
+      "time" : {
+        "start" : 1621999806435,
+        "stop" : 1621999806435,
+        "duration" : 0
+      }
+    } ]
+  },
+  "95f1152c541294c118b135789fa0ffae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f29066189f9de43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800307,
+        "stop" : 1621999800363,
+        "duration" : 56
+      }
+    } ]
+  },
+  "b5f2f42c39964c485669fe0e06133e79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47492bca40d69c32",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738846,
+        "stop" : 1621999738846,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6896f67c2b5d36768c32326c3ad977f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fc7bb42fa639a75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802011,
+        "stop" : 1621999802049,
+        "duration" : 38
+      }
+    } ]
+  },
+  "0d3f11efcfce11665c1d159d8da95741" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b238c580ff1d9268",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nOperation_Magage/test_list.py:265: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200','失败原因是：%s' %result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nOperation_Magage/test_list.py:266: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621999737570,
+        "stop" : 1621999737596,
+        "duration" : 26
+      }
+    } ]
+  },
+  "7e3c6e61da1c5a6fb5c4eee48845ab6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd32901f712c83ae",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738681,
+        "stop" : 1621999738681,
+        "duration" : 0
+      }
+    } ]
+  },
+  "416f9eacf4bdde6d75f7206fb534b4bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fde03223ea63c48",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995778171,
+        "stop" : 1621995778171,
+        "duration" : 0
+      }
+    } ]
+  },
+  "eee466da49531aa340779e919f004d9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90ad21f88e55ca9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738907,
+        "stop" : 1621999738955,
+        "duration" : 48
+      }
+    } ]
+  },
+  "0fa6cc9ab0438cf20747910a31c5a621" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e81ffa0e682366e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738515,
+        "stop" : 1621999738546,
+        "duration" : 31
+      }
+    } ]
+  },
+  "5d593c42dde4746593fa3756699fe1d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa3aa63839482fb3",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778385,
+        "stop" : 1621995778408,
+        "duration" : 23
+      }
+    } ]
+  },
+  "65334965f0ffdb41ab2f90a7b0375453" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e418b22c2c06d98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737316,
+        "stop" : 1621999737369,
+        "duration" : 53
+      }
+    } ]
+  },
+  "3504385131375c3caaf7b875fa4ddaea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31040c56b50ce1f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736750,
+        "stop" : 1621999736803,
+        "duration" : 53
+      }
+    } ]
+  },
+  "39634ed16dc67addbc5f6061c301c1d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55663d32768eda92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999784783,
+        "stop" : 1621999799530,
+        "duration" : 14747
+      }
+    } ]
+  },
+  "6ea14545d941e6f32ae978953891b15e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e3d65bb84830572",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738751,
+        "stop" : 1621999738751,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7af99d7589c1adce56bc9f35ee2d61b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86b93428dc11ecd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802759,
+        "stop" : 1621999802796,
+        "duration" : 37
+      }
+    } ]
+  },
+  "9eb0bbe3298f59d8a9fc5595805fa6a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4a8db529cd4b7d",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771397,
+        "stop" : 1621995771397,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8ddb07439beb3ff22417f274c962fd7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0e22b6cb23a66dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999736659,
+        "stop" : 1621999736709,
+        "duration" : 50
+      }
+    } ]
+  },
+  "9c9225158753358c4a487b980d6f2d02" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ccdc833d20f0ebf",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999740314,
+        "stop" : 1621999740314,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a5e7b1ccc50eb07d7ccbb6310caf4a9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9516b5ac1b364af3",
+      "status" : "broken",
+      "statusDetails" : "TypeError: tuple indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1623218435291,
+        "stop" : 1623218460370,
+        "duration" : 25079
+      }
+    } ]
+  },
+  "59ed25195f9ef2ebf8a25135b465c99e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4c2409499765d65",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995984799,
+        "stop" : 1621996009873,
+        "duration" : 25074
+      }
+    } ]
+  },
+  "f5c736a5bd22e337156012dd755d3a83" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "653e3d5a5938c6f7",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\nTest_Case/Test_APIcase/test_shujvxietong.py:118: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200','失败原因是：%s' %result['message'])\nAssertionError: 失败原因是：请求参数不对，请检查请求形式\nassert False\n\nTest_Case/Test_APIcase/test_shujvxietong.py:119: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621999799608,
+        "stop" : 1621999799639,
+        "duration" : 31
+      }
+    } ]
+  },
+  "887dc59c4e3db29f79dfc9a87d83e466" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6bdfce0c986e21f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738407,
+        "stop" : 1621999738472,
+        "duration" : 65
+      }
+    } ]
+  },
+  "52ab387375bcdb0d0ff49a5dd23582b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8b2c32fc8600361",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'bool' object is not subscriptable",
+      "time" : {
+        "start" : 1621999799712,
+        "stop" : 1621999799712,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc35c880d660f8a02def00dcc2a5882e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f21d06407a8917d5",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777739,
+        "stop" : 1621995777739,
+        "duration" : 0
+      }
+    } ]
+  },
+  "273ee266133eb9f035bc0c2c73f5b8d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c32bfe69244bb7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738983,
+        "stop" : 1621999739017,
+        "duration" : 34
+      }
+    } ]
+  },
+  "d78bd337bded73833872882e732c9bd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd0e3d27cb37427d",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../../yaml_operation/yaml_manage/testcase.yaml'",
+      "time" : {
+        "start" : 1621999799783,
+        "stop" : 1621999799783,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0dacb8ad5bd1c3ffee9e86ca9550aa74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cfa11552b342739",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832902,
+        "stop" : 1621995832902,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c849eb12b4ed0c198d68d3891c4cc966" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56f9e1d8eaa29ca0",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778839,
+        "stop" : 1621995778867,
+        "duration" : 28
+      }
+    } ]
+  },
+  "8112d2c786adce9caaa94b6a12ae6118" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1353b3794a395a29",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621996034964,
+        "stop" : 1621996060021,
+        "duration" : 25057
+      }
+    } ]
+  },
+  "16ac59e6c1890f8e5c5c12086e93364a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c0794fca1d0aacd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803729,
+        "stop" : 1621999803830,
+        "duration" : 101
+      }
+    } ]
+  },
+  "b0515cdb15701d109be3ab8fbf743907" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72710f0a38facef9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737241,
+        "stop" : 1621999737278,
+        "duration" : 37
+      }
+    } ]
+  },
+  "b7470affccca80053dea244b2bc8eaac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d003fdbc6951886",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803832,
+        "stop" : 1621999803918,
+        "duration" : 86
+      }
+    } ]
+  },
+  "e086fbb1d2b1c0d0ccba4b9b58599e57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b61588ff7b934c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999740196,
+        "stop" : 1621999740233,
+        "duration" : 37
+      }
+    } ]
+  },
+  "ac051809c1cb294b78a8f8389635f49d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "714e97fbd8ba86d2",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738885,
+        "stop" : 1621999738885,
+        "duration" : 0
+      }
+    } ]
+  },
+  "24cda9ce6750fd0f08604834e3a25340" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58234ba4fbc7fdf8",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995832867,
+        "stop" : 1621995832867,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a47c628fe6e7bada46f7da48580254cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c7e0f8f460ccfec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833184,
+        "stop" : 1621995833286,
+        "duration" : 102
+      }
+    } ]
+  },
+  "7bf9b66436c525cb622fd8ba04a025ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a159bd1a1dadc7a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801130,
+        "stop" : 1621999801216,
+        "duration" : 86
+      }
+    } ]
+  },
+  "af39e80fc18e3c213f0eb744348f3d4a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce8b6172f52222ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621995833004,
+        "stop" : 1621995833051,
+        "duration" : 47
+      }
+    } ]
+  },
+  "acf8d5a3022c93874b30499703bfb72b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b0156a3935d2ba5",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777722,
+        "stop" : 1621995777722,
+        "duration" : 0
+      }
+    } ]
+  },
+  "194d098432c4024d5dea6ccddfc7139b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b48a0a4bc93f7b7",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859136,
+        "stop" : 1621995859136,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e7a2a01ea1afcc997b16aa9c53e0e093" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3d778aa5ff8b5dd",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'",
+      "time" : {
+        "start" : 1621995832940,
+        "stop" : 1621995832940,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0b1037b92299c3ef190fe42e583af973" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3bdc1f787302052",
+      "status" : "failed",
+      "statusDetails" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\ntest_shujvxietong.py:61: AssumptionFailure\n>>\tpytest.assume(str(result['code']) == '200')\nAssertionError: assert False\n\ntest_shujvxietong.py:62: AssumptionFailure\n>>\tpytest.assume(result['success'] == True)\nAssertionError: assert False",
+      "time" : {
+        "start" : 1621995909420,
+        "stop" : 1621995909448,
+        "duration" : 28
+      }
+    } ]
+  },
+  "2bb5a4ad0d739e96c4e4f2ce147d229d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bad79f61585fbcdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999801417,
+        "stop" : 1621999801483,
+        "duration" : 66
+      }
+    } ]
+  },
+  "e99dd4c857ab3536cd47268d5092caf0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b59ff8f66f687c8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621999738857,
+        "stop" : 1621999738857,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1fb395da47d2f95c87758f41363f9914" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cc704da65460709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802615,
+        "stop" : 1621999802682,
+        "duration" : 67
+      }
+    } ]
+  },
+  "6abce6de267b333418d7b8172213e9e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12a242e7e43303f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999737068,
+        "stop" : 1621999737109,
+        "duration" : 41
+      }
+    } ]
+  },
+  "e756067951c1b5802e69465d50db0dee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "397ea495858b6e26",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777643,
+        "stop" : 1621995777643,
+        "duration" : 0
+      }
+    } ]
+  },
+  "639a30b0a1130a22f0a2872a620d3486" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8219cc22dfeb699",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'",
+      "time" : {
+        "start" : 1621995771455,
+        "stop" : 1621995771455,
+        "duration" : 0
+      }
+    } ]
+  },
+  "eb9908492df9cd401a7e812e981cf1e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46bd73516322f5df",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778683,
+        "stop" : 1621995778709,
+        "duration" : 26
+      }
+    } ]
+  },
+  "63647b5702a96e9b0347fed214b42307" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b1d416e5f229e2",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995778538,
+        "stop" : 1621995778538,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9ea4f06fbf91978cc329b6fe8a345c3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c41fe6a1a9d27508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802318,
+        "stop" : 1621999802350,
+        "duration" : 32
+      }
+    } ]
+  },
+  "d18f30f8e07d6fb69651a40a857bc0b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56b3d1fca2f492cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738126,
+        "stop" : 1621999738228,
+        "duration" : 102
+      }
+    } ]
+  },
+  "5efb7a7ff5ddae56bc2fd8fa4fbedc8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31287d06845b47f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999739289,
+        "stop" : 1621999739318,
+        "duration" : 29
+      }
+    } ]
+  },
+  "d3e166f95d2545e45c9acbbb93a304c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6cae1d795b86fb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999800462,
+        "stop" : 1621999800525,
+        "duration" : 63
+      }
+    } ]
+  },
+  "54911e2b62642a913437138e6b7b910d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69ff73d4fc65c1e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803066,
+        "stop" : 1621999803105,
+        "duration" : 39
+      }
+    } ]
+  },
+  "036dff5eb0da0e612d4af9c4cad539ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55c02a2a408ff826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802116,
+        "stop" : 1621999802176,
+        "duration" : 60
+      }
+    } ]
+  },
+  "8e06e438f3a35c1b7f788b57b314e2a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1db1d435b4351267",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995859146,
+        "stop" : 1621995859146,
+        "duration" : 0
+      }
+    } ]
+  },
+  "01ad83f3248c2e65de5a5fac2bd64aa7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "babac40dcb3ebc28",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995771362,
+        "stop" : 1621995771362,
+        "duration" : 0
+      }
+    } ]
+  },
+  "34ec452d5266a1645c9ee3848e0b7d36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "329bed62e19d2c70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999738298,
+        "stop" : 1621999738367,
+        "duration" : 69
+      }
+    } ]
+  },
+  "b60243cefe4b40bcb9aec99805e146e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e1f841992c69d1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999802577,
+        "stop" : 1621999802613,
+        "duration" : 36
+      }
+    } ]
+  },
+  "707ca5e0f3384b4fd6891fe7d0acddd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b729c2bd7ddf2757",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'data'",
+      "time" : {
+        "start" : 1621995777602,
+        "stop" : 1621995777602,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0fbe7a5dfba1c88141f7ae9871c73290" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "599a32621dc892e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999755300,
+        "stop" : 1621999770034,
+        "duration" : 14734
+      }
+    } ]
+  },
+  "c8aa501e6fce7944d610c8c57f5a5761" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef7d2e1ac4da44d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621999803333,
+        "stop" : 1621999803407,
+        "duration" : 74
+      }
+    } ]
+  },
+  "2e5edd3745b85c40ba429591cd1ffa9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45fdddda27f36167",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1621995778258,
+        "stop" : 1621995778258,
+        "duration" : 0
+      }
+    } ]
+  }
+}

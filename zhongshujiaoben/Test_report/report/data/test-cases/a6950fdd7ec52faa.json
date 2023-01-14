@@ -1,0 +1,88 @@
+{
+  "uid" : "a6950fdd7ec52faa",
+  "name" : "公钥启用接口",
+  "fullName" : "test_customer_kongzhitai.Test_GongyaoManage#test_gongyaoqiyong",
+  "historyId" : "cbec8b1e9ff0d653290e832a00eb534d",
+  "time" : {
+    "start" : 1621995778560,
+    "stop" : 1621995778560,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "KeyError: 'data'",
+  "statusTrace" : "@pytest.fixture(scope=\"class\")\n    def test_gongyao():\n    \n>       guanlian_id = ke.list_guanlianzhanghao()[1]\n\ntest_customer_kongzhitai.py:306: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.kongzhitai.anquanguanli.KeyManagement.Key object at 0x10f2a0cd0>\n\n    def list_guanlianzhanghao(self):\n        url = f'{self.url}/api/v2/secret/subSecretList'\n        header = {'Content-Type': 'application/json'}\n        data = {\n              \"reqHeader\": {\n            \"userId\":self.userid,\n            \"token\":self.token\n          },\n              \"reqBody\": {\n                \"page\": 1,\n                \"size\": 10,\n                \"userId\":self.userid\n              }\n            }\n        res = requests.post(url, headers=header, data=json.dumps(data))\n>       guanlianzhanghaoid1 = res.json()['data']['items']\nE       KeyError: 'data'\n\n../../Customer_platform/API/kongzhitai/anquanguanli/KeyManagement.py:63: KeyError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_gongyao",
+    "time" : {
+      "start" : 1621995778475,
+      "stop" : 1621995778497,
+      "duration" : 22
+    },
+    "status" : "broken",
+    "statusMessage" : "KeyError: 'data'\n",
+    "statusTrace" : "  File \"/usr/local/lib/python3.8/site-packages/pluggy/callers.py\", line 187, in _multicall\n    res = hook_impl.function(*args)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 1117, in pytest_fixture_setup\n    result = call_fixture_func(fixturefunc, request, kwargs)\n  File \"/usr/local/lib/python3.8/site-packages/_pytest/fixtures.py\", line 924, in call_fixture_func\n    fixture_result = fixturefunc(**kwargs)\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Test_case/Test_APIcase/test_customer_kongzhitai.py\", line 306, in test_gongyao\n    guanlian_id = ke.list_guanlianzhanghao()[1]\n  File \"/Users/apple/PycharmProjects/zhongshujiaoben/Customer_platform/API/kongzhitai/anquanguanli/KeyManagement.py\", line 63, in list_guanlianzhanghao\n    guanlianzhanghaoid1 = res.json()['data']['items']\n",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "公钥管理"
+  }, {
+    "name" : "feature",
+    "value" : "安全管理"
+  }, {
+    "name" : "epic",
+    "value" : "控制台"
+  }, {
+    "name" : "tag",
+    "value" : "gongyao"
+  }, {
+    "name" : "suite",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_GongyaoManage"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_customer_kongzhitai"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "gongyao" ]
+  },
+  "source" : "a6950fdd7ec52faa.json",
+  "parameterValues" : [ ]
+}

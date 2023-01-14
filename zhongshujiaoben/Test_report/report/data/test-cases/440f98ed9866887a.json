@@ -1,0 +1,80 @@
+{
+  "uid" : "440f98ed9866887a",
+  "name" : "创建接入方账号",
+  "fullName" : "Test_Case.Test_UIcase.test_001#test_addjierufang",
+  "historyId" : "fe5bd936c69ca87a4ce6ebc834f00458",
+  "time" : {
+    "start" : 1621999804074,
+    "stop" : 1621999804101,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "中枢系统"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_UIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_UIcase.test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "jierufangname",
+    "value" : "'陈云的接入方2222'"
+  }, {
+    "name" : "loginname",
+    "value" : "'chenyun2222'"
+  }, {
+    "name" : "username",
+    "value" : "'陈云2222'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "440f98ed9866887a.json",
+  "parameterValues" : [ "'陈云的接入方2222'", "'chenyun2222'", "'陈云2222'" ]
+}

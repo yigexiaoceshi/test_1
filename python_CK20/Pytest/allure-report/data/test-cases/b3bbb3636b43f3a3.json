@@ -1,0 +1,61 @@
+{
+  "uid": "b3bbb3636b43f3a3",
+  "name": "用例标题：测试严重级别为阻塞的用例",
+  "fullName": "test_008_allure_install#test_with_severity_Blocker1",
+  "historyId": "43b0de82deade797810dff544eb457dd",
+  "time": {
+    "start": 1630076103167,
+    "stop": 1630076103167,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "severity",
+      "value": "blocker"
+    },
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "99082-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "blocker",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "b3bbb3636b43f3a3.json",
+  "parameterValues": []
+}

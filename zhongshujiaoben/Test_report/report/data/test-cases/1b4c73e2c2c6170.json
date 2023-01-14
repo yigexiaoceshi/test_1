@@ -1,0 +1,93 @@
+{
+  "uid" : "1b4c73e2c2c6170",
+  "name" : "运营列表负责人查询",
+  "fullName" : "test_operation_renyuanguanli.Test_new_operation#test_operation_list_chaxun02",
+  "historyId" : "71cd71279cf592140fa4d697e7d8b4cb",
+  "time" : {
+    "start" : 1621995833117,
+    "stop" : 1621995833145,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_loginname",
+    "time" : {
+      "start" : 1621995833053,
+      "stop" : 1621995833081,
+      "duration" : 28
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "238c5d2e020b1445",
+      "name" : "log",
+      "source" : "238c5d2e020b1445.txt",
+      "type" : "text/plain",
+      "size" : 281
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "运营平台"
+  }, {
+    "name" : "feature",
+    "value" : "人员管理"
+  }, {
+    "name" : "story",
+    "value" : "运营人员"
+  }, {
+    "name" : "suite",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_new_operation"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_operation_renyuanguanli"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b4c73e2c2c6170.json",
+  "parameterValues" : [ ]
+}

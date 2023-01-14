@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/git/152/.idea/152.iml" filepath="$USER_HOME$/Desktop/git/152/.idea/152.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dingding/.idea/Dingding.iml" filepath="$PROJECT_DIR$/../Dingding/.idea/Dingding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Thread/.idea/Thread.iml" filepath="$PROJECT_DIR$/../Thread/.idea/Thread.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/git/centralsystem-test-case/.idea/centralsystem-test-case.iml" filepath="$USER_HOME$/Desktop/git/centralsystem-test-case/.idea/centralsystem-test-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_testone/.idea/django.iml" filepath="$PROJECT_DIR$/../django_testone/.idea/django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_test/.idea/django_test.iml" filepath="$PROJECT_DIR$/../django_test/.idea/django_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guest/.idea/guest.iml" filepath="$PROJECT_DIR$/../guest/.idea/guest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../locust/.idea/locust.iml" filepath="$PROJECT_DIR$/../locust/.idea/locust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysite_django/.idea/mysite_django.iml" filepath="$PROJECT_DIR$/../mysite_django/.idea/mysite_django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/git/standard-citybrain-doc/.idea/standard-citybrain-doc.iml" filepath="$USER_HOME$/Desktop/git/standard-citybrain-doc/.idea/standard-citybrain-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wecat/.idea/wecat.iml" filepath="$PROJECT_DIR$/../wecat/.idea/wecat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhongshu_cy/.idea/zhongshu.iml" filepath="$PROJECT_DIR$/../zhongshu_cy/.idea/zhongshu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhongshujiaoben.iml" filepath="$PROJECT_DIR$/.idea/zhongshujiaoben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhongshuxitong_chenyun/.idea/zhongshuxitong.iml" filepath="$PROJECT_DIR$/../zhongshuxitong_chenyun/.idea/zhongshuxitong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Zhongshu_simplify/.idea/中枢-紧急回归script.iml" filepath="$PROJECT_DIR$/../Zhongshu_simplify/.idea/中枢-紧急回归script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reptile/.idea/爬虫.iml" filepath="$PROJECT_DIR$/../Reptile/.idea/爬虫.iml" />
+    </modules>
+  </component>
+</project>

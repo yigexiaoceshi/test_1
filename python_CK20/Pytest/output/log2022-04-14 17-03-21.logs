@@ -1,0 +1,6 @@
+2022-04-14 17:03:21 [INFO] {'params': {'corpid': 'ww06c7843f5a3300cb', 'corpsecret': 'p10fPmcNBibLSZsp_rZYXXqAKCFkrDw8BVAn1RtIRGI'}} (base_api.py:22)
+2022-04-14 17:03:21 [INFO] {"errcode":0,"errmsg":"ok","access_token":"c9Puhj0uOvaQmYAox63GkTM0INjngUcUIclrx5at2DOwlZd2QJBYwKgLOO1tmWB5pUQSDp6kycy9l3e9GBy_QyIAadMpAsRYkGXrwW1xPqYqHbLN4XJe6a7ycKcE6Iy6LAiIQJOPtIWBOrK7bzALpSyi-_POLZNV3q02qh5jjRTWn8rujgZ44Jmr8cxPCowXuIe8z44-JmBFH9I7gbUojw","expires_in":7200} (base_api.py:26)
+2022-04-14 17:03:21 [INFO] {'json': {'name': '交付中心_bbae2586', 'parentid': 13}} (base_api.py:22)
+2022-04-14 17:03:21 [INFO] {"errcode":0,"errmsg":"created","id":71} (base_api.py:26)
+2022-04-14 17:03:21 [INFO] {'json': {'id': 71, 'name': '交付中心_update_bbdfe210'}} (base_api.py:22)
+2022-04-14 17:03:21 [INFO] {"errcode":0,"errmsg":"updated"} (base_api.py:26)

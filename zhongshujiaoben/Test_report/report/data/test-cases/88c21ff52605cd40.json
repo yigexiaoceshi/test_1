@@ -1,0 +1,122 @@
+{
+  "uid" : "88c21ff52605cd40",
+  "name" : "接入方管理系统",
+  "fullName" : "Test_Case.Test_UIcase.test_001.TestOperation_login#test_004",
+  "historyId" : "5108e3e893ac95a5ab4c1c396afd9eb7",
+  "time" : {
+    "start" : 1621999806443,
+    "stop" : 1621999806443,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../../Access_Manage/element/element_yaml/acc_login.yaml'",
+  "statusTrace" : "self = <Test_Case.Test_UIcase.test_001.TestOperation_login object at 0x11af34760>, username = 'chenyun1111', password = 'chenyun1111'\n\n    @allure.title('接入方管理系统')\n    @allure.story('接入方登录功能测试')\n    @pytest.mark.parametrize('username,password',[('chenyun1111','chenyun1111'),('chenyun2222','chenyun2222')])\n    def test_004(self,username,password):\n>       lg = AccessLogin('../../Access_Manage/element/element_yaml/acc_login.yaml').access_login(username,password)\n\nTest_Case/Test_UIcase/test_001.py:56: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \nAccess_Manage/UIlib/AccessloginPage.py:12: in __init__\n    self.element = YamlHandler1(yamlfile).read_yaml()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <Access_Manage.element.resd_yaml.rd_yaml.YamlHandler1 object at 0x11adb7b80>\n\n    def read_yaml(self):\n        \"\"\"读取yaml数据\"\"\"\n>       with open(self.file, encoding='utf-8') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: '../../Access_Manage/element/element_yaml/acc_login.yaml'\n\nAccess_Manage/element/resd_yaml/rd_yaml.py:16: FileNotFoundError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1621999804106,
+      "stop" : 1621999806424,
+      "duration" : 2318
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1621999806470,
+      "stop" : 1621999806535,
+      "duration" : 65
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "接入方登录功能测试"
+  }, {
+    "name" : "epic",
+    "value" : "中枢系统"
+  }, {
+    "name" : "tag",
+    "value" : "opelogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Case.Test_UIcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOperation_login"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.Test_UIcase.test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'chenyun1111'"
+  }, {
+    "name" : "username",
+    "value" : "'chenyun1111'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "opelogin" ]
+  },
+  "source" : "88c21ff52605cd40.json",
+  "parameterValues" : [ "'chenyun1111'", "'chenyun1111'" ]
+}

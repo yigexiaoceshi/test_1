@@ -1,0 +1,71 @@
+{
+  "uid" : "f9aa8f2c76b7f08b",
+  "name" : "查询自定义指数类目接口",
+  "fullName" : "Operation_Magage.test_list#test_list_zidingyizhishuleimu",
+  "historyId" : "1ac060f3cdbe693888ae51f264cc485f",
+  "time" : {
+    "start" : 1621999737407,
+    "stop" : 1621999737437,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1621999736247,
+      "stop" : 1621999736321,
+      "duration" : 74
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "接入方平台"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Operation_Magage"
+  }, {
+    "name" : "suite",
+    "value" : "test_list"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "28577-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Operation_Magage.test_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9aa8f2c76b7f08b.json",
+  "parameterValues" : [ ]
+}

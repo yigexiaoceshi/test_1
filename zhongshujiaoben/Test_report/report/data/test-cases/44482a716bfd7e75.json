@@ -1,0 +1,74 @@
+{
+  "uid" : "44482a716bfd7e75",
+  "name" : "文件上传",
+  "fullName" : "test_proxy.Test_shenqing_proxy#test_file_proxy",
+  "historyId" : "75a0abb2e1749b5b4e3edf0c974b370f",
+  "time" : {
+    "start" : 1619507159238,
+    "stop" : 1619507159239,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_proxy.Test_shenqing_proxy object at 0x10570eac0>\n\n    @allure.title(\"文件上传\")\n    def test_file_proxy(self):\n>       result=sp.proxy_file()[0]\n\ntest_proxy.py:115: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <Customer_platform.API.proxy.proxy_shenqing.Shenqing_proxy object at 0x1051eb070>\n\n    def proxy_file(self):\n        url=f'{self.url}/api/v2/netdisk/upload'\n        file={\"bizType\":(None,3),\n>             \"file\":(\"111.pdf\",open('/Users/apple/Desktop/111.pdf', 'rb'),\"application/pdf\")}\nE       FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'\n\n../../Customer_platform/API/proxy/proxy_shenqing.py:21: FileNotFoundError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1619507158729,
+      "stop" : 1619507158782,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "申请服务"
+  }, {
+    "name" : "epic",
+    "value" : "代理服务"
+  }, {
+    "name" : "suite",
+    "value" : "test_proxy"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_shenqing_proxy"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "8778-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_proxy"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44482a716bfd7e75.json",
+  "parameterValues" : [ ]
+}

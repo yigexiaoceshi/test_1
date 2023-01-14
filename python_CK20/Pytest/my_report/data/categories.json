@@ -1,0 +1,56 @@
+{
+  "uid": "4b4757e66a1912dae1a509f688f20b0f",
+  "name": "categories",
+  "children": [
+    {
+      "name": "Product defects",
+      "children": [
+        {
+          "name": "AssertionError: assert '1' == 1\n  +'1'\n  -1",
+          "children": [
+            {
+              "name": "test_login_failure_b",
+              "uid": "7ac0512da6251789",
+              "parentUid": "11af686e98f8e74a3a950b833fff0358",
+              "status": "failed",
+              "time": {
+                "start": 1630056054373,
+                "stop": 1630056054373,
+                "duration": 0
+              },
+              "flaky": false,
+              "parameters": []
+            }
+          ],
+          "uid": "11af686e98f8e74a3a950b833fff0358"
+        }
+      ],
+      "uid": "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+    },
+    {
+      "name": "Test defects",
+      "children": [
+        {
+          "name": "TypeError: test_with_testcase_link() takes 0 positional arguments but 1 was given",
+          "children": [
+            {
+              "name": "test_with_testcase_link",
+              "uid": "d51dee937ca71fd5",
+              "parentUid": "b96e7838baacde1cd469749a95b3552a",
+              "status": "broken",
+              "time": {
+                "start": 1630056054399,
+                "stop": 1630056054399,
+                "duration": 0
+              },
+              "flaky": false,
+              "parameters": []
+            }
+          ],
+          "uid": "b96e7838baacde1cd469749a95b3552a"
+        }
+      ],
+      "uid": "bdbf199525818fae7a8651db9eafe741"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "total" : 14,
+  "items" : [ {
+    "uid" : "066b60404df782979ee14a03589a8670",
+    "name" : "接入方平台",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 19,
+      "unknown" : 0,
+      "total" : 22
+    }
+  }, {
+    "uid" : "9945a25da13ef9ad2895344ea4c1abbb",
+    "name" : "数据协同",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "d868e9b4aeb00f9cc3c77c56d10c617e",
+    "name" : "控制台",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "f9a7a69e8cae5ee08b75f06bf382d316",
+    "name" : "运营平台",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 17
+    }
+  }, {
+    "uid" : "aa731821415c13ddc2d86a65fa240149",
+    "name" : "中枢系统",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "c9f9bfefa85e299b888dbb8ba9920b38",
+    "name" : "文件管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "e6de0b5827a1e049cd3673a7d46c6dd5",
+    "name" : "视频源接入",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "27e214ccb24a3cfdfd40163f9e1b91cf",
+    "name" : "资源中心",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "54d9bc2685fb2230afed4b597a3cc756",
+    "name" : "代理服务",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "1e09f83a4b56eba4bc5257caff630c1f",
+    "name" : "消息协同",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

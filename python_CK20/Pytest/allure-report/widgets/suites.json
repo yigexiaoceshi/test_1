@@ -1,0 +1,17 @@
+{
+  "total": 1,
+  "items": [
+    {
+      "uid": "513a16b278769f146ebbb1f54ec89723",
+      "name": "test_008_allure_install",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 9,
+        "unknown": 0,
+        "total": 9
+      }
+    }
+  ]
+}

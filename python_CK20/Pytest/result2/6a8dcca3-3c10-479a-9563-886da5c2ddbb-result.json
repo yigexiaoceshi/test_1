@@ -1,0 +1,43 @@
+{
+  "name": "test_with_testcase_link",
+  "status": "passed",
+  "start": 1630056054472,
+  "stop": 1630056054472,
+  "uuid": "854c3e68-dd11-45b0-86d1-329de9b56029",
+  "historyId": "4b2dda2f2302d1dcaad1d84a7f242d60",
+  "testCaseId": "d05dda62f29fda345bc79afa6ea43e21",
+  "fullName": "test_008_allure_install#test_with_testcase_link",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_008_allure_install"
+    },
+    {
+      "name": "host",
+      "value": "liyongdeMacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "96109-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_008_allure_install"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http:www.baidu.com",
+      "name": "测试链接"
+    }
+  ]
+}

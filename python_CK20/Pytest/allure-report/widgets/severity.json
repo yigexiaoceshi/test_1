@@ -1,0 +1,101 @@
+[
+  {
+    "uid": "b3bbb3636b43f3a3",
+    "name": "用例标题：测试严重级别为阻塞的用例",
+    "time": {
+      "start": 1630076103167,
+      "stop": 1630076103167,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "blocker"
+  },
+  {
+    "uid": "9447c708d882e91b",
+    "name": "test_inside_the_severity_normal_test_class",
+    "time": {
+      "start": 1630076103172,
+      "stop": 1630076103172,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "642ba902499e2bbe",
+    "name": "test_inside_the_severity_normal_test_class_with_overriding_critical_severity",
+    "time": {
+      "start": 1630076103173,
+      "stop": 1630076103173,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "critical"
+  },
+  {
+    "uid": "7ccd9b7871685cc1",
+    "name": "test_with_severity_Critical",
+    "time": {
+      "start": 1630076103169,
+      "stop": 1630076103169,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "critical"
+  },
+  {
+    "uid": "c0f5a038db42d772",
+    "name": "test_with_severity_Minor",
+    "time": {
+      "start": 1630076103171,
+      "stop": 1630076103171,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "minor"
+  },
+  {
+    "uid": "d9b435421876dc32",
+    "name": "test_with_severity_Trivial",
+    "time": {
+      "start": 1630076103171,
+      "stop": 1630076103171,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "trivial"
+  },
+  {
+    "uid": "25a0fbb01fd66e29",
+    "name": "test_with_severity_Normal",
+    "time": {
+      "start": 1630076103170,
+      "stop": 1630076103170,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "12144e9eb6a39865",
+    "name": "test_with_severity_Blocker2",
+    "time": {
+      "start": 1630076103168,
+      "stop": 1630076103168,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "blocker"
+  },
+  {
+    "uid": "87fbd677c61cef7a",
+    "name": "test_with_no_severity_label",
+    "time": {
+      "start": 1630076103166,
+      "stop": 1630076103166,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  }
+]

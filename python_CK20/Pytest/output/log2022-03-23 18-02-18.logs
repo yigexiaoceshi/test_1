@@ -1,0 +1,1 @@
+2022-03-23 18:02:18 [ERROR] 验证出错，出错的位置为,出错的信息是<class 'object'> is not of type 'object' (test_json_schema.py:34)

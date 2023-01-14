@@ -1,0 +1,65 @@
+{
+  "uid" : "e3d778aa5ff8b5dd",
+  "name" : "视频源申请-上传附件",
+  "fullName" : "test_device.Test_device_shenqing#test_device_fujian",
+  "historyId" : "e7a2a01ea1afcc997b16aa9c53e0e093",
+  "time" : {
+    "start" : 1621995832940,
+    "stop" : 1621995832940,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'",
+  "statusTrace" : "self = <Test_case.Test_APIcase.test_device.Test_device_shenqing object at 0x10f7fb7c0>\n\n    @allure.title(\"视频源申请-上传附件\")\n    def test_device_fujian(self):\n>       result=ds.device_file()[0]\n\ntest_device.py:162: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Customer_platform.API.device.device_shenqing.device_shenqing object at 0x10f45cc10>\n\n    def device_file(self):\n        url=f'{self.url}/api/v2/netdisk/upload'\n        files={\n            \"bizType\":(None,9),\n>           \"file\":(\"111\",open(\"/Users/apple/Desktop/111.pdf\",\"rb\"),\"application/pdf\")\n        }\nE       FileNotFoundError: [Errno 2] No such file or directory: '/Users/apple/Desktop/111.pdf'\n\n../../Customer_platform/API/device/device_shenqing.py:87: FileNotFoundError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "视频源接入"
+  }, {
+    "name" : "feature",
+    "value" : "视频源申请"
+  }, {
+    "name" : "suite",
+    "value" : "test_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_device_shenqing"
+  }, {
+    "name" : "host",
+    "value" : "zhouchengjiedeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "25156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e3d778aa5ff8b5dd.json",
+  "parameterValues" : [ ]
+}
